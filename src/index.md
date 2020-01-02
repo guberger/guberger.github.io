@@ -1,10 +1,11 @@
 @def title = "Home | Guillaume Berger"
 @def hasmath = true
 @def date = Dates.today()
-<!-- @def hascode = true -->
 <!-- Note: by default hasmath == true and hascode == false. You can change this in
 the config file by setting hasmath = false for instance and just setting it to true
 where appropriate -->
+@def rss = "Guillaume Berger UCLouvain professional website"
+<!-- @def rss = "A short description of the page which would serve as **blurb** in a `RSS` feed; you can use basic markdown here but the whole description string must be a single line (not a multiline string). Like this one for instance. Keep in mind that styling is minimal in RSS so for instance don't expect maths or fancy styling to work; images should be ok though: ![](https://upload.wikimedia.org/wikipedia/en/3/32/Rick_and_Morty_opening_credits.jpeg)" -->
 
 # Guillaume Berger
 
