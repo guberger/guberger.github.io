@@ -17,13 +17,13 @@ Ph.D. student, mathematical engineering<br>
 Member of <a href="https://uclouvain.be/en/research-institutes/icteam">ICTEAM Institute,</a><br>
 Applied mathematics department,<br>
 Université Catholique of Louvain (<a href="https://uclouvain.be/fr/index.html">UCLouvain</a>)<br>
-<a href="https://www.frs-fnrs.be/en/financements/chercheur-doctorant#fria">FNRS/FRIA</a> fellow<br>
+<a href="https://www.frs-fnrs.be/en/financements/chercheur-doctorant#fria">FNRS/FRIA</a> Research fellow<br>
 My advisor is <a href="https://perso.uclouvain.be/raphael.jungers/">Raphaël Jungers</a>
 </p>
 <h3>Quick links</h3>
-<p>Google Scholar<br>
-Github<br>
-CV
+<p><a href="https://scholar.google.be/citations?user=z_q7fV0AAAAJ&hl=fr">Google Scholar</a><br>
+<a href="https://github.com/guberger">GitHub</a><br>
+<a href="/assets/infra/cv.pdf">CV</a>
 </p>
 </td></tr></tbody></table>
 ~~~
@@ -37,9 +37,7 @@ My area of research is the analysis, control, and optimization of complex system
 
 ## News
 
-I will be at HSCC'20, in Sydney, in April 2020
-
-I will be at Benelux Meeting'20, in Soesterberg, in March 2020
+I will present a talk at HSCC'20, in Sydney, in April 2020
 
 ## Contact
 
