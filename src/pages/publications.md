@@ -5,7 +5,7 @@
 
 # Papers and proceedings
 
-* Guillaume O. Berger, P.-A. Absil, Raphaël M. Jungers, Y. Nesterov, **On the quality of first-order approximation of functions with Hölder-continuous gradient**, to appear in _Journal of Optimization Theory and Applications_, 2020. [arXiv](https://arxiv.org/abs/2001.07946) [pdf](/assets/infra/berger2020onthequality.pdf)
+* Guillaume O. Berger, P.-A. Absil, Raphaël M. Jungers, Y. Nesterov, **On the quality of first-order approximation of functions with Hölder continuous gradient**, to appear in _Journal of Optimization Theory and Applications_, 2020. [arXiv](https://arxiv.org/abs/2001.07946) [pdf](/assets/infra/berger2020onthequality.pdf)
 
 * Guillaume O. Berger, Raphaël M. Jungers, **Worst-case topological entropy and minimal data rate for state observation of switched linear systems**, to appear in _Proceedings of 2020 23rd ACM International Conference on Hybrid Systems: Computation and Control (HSCC)_, 2020.
 
