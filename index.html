@@ -7,28 +7,38 @@
 <link rel="stylesheet" href="/libs/katex/katex.min.css">
      
   
-  <link rel="stylesheet" href="/css/judoc.css">
-  <link rel="stylesheet" href="/css/jemdoc.css">
-  <link rel="icon" href="/assets/infra/smallprofile.png">
+  <link rel="stylesheet" href="/css/jtd.css">
+  <link rel="icon" href="/assets/infra/myprofile.png">
    <title>Home | Guillaume Berger</title>  
 </head>
-<body>
-  <table id="tlayout">
-    <tr valign="top">
-      <td id="layout-menu">
-        <div class="menu-category">Guillaume Berger</div>
-        <div class="menu-item"><a href="/index.html" class="current">Home</a></div>
-        <div class="menu-category">Research</div>
-        <div class="menu-item"><a href="/pub/publications.html" >Publications</a></div>
-        <div class="menu-item"><a href="/pub/softwares.html" >Softwares</a></div>
-        <div class="menu-category">Teaching</div>
-        <div class="menu-item"><a href="/pub/courses.html" >Courses</a></div>
-      </td>
-      <td id="layout-content">
+<body>                      <!-- closed in foot.html -->
+  <div class="page-wrap">   <!-- closed in foot.html -->
+    <!-- SIDE BAR -->
+    <div class="side-bar">
+      <div class="header">
+        <a href="/" class="title">
+          Guillaume Berger
+        </a>
+      </div>
+      <label for="show-menu" class="show-menu">MENU</label>
+      <input type="checkbox" id="show-menu" role="button">
+      <div class="menu" id="side-menu">
+        <ul class="menu-list">
+          <li class="menu-list-item active"><a href="/" class="menu-list-link active">Home</a>
+          <li class="menu-list-item "><a href="/pub/publications.html" class="menu-list-link ">Publications</a>
+          <li class="menu-list-item "><a href="/pub/softwares.html" class="menu-list-link ">Softwares</a>
+          <li class="menu-list-item "><a href="/pub/courses.html" class="menu-list-link ">Teaching</a>
+        </ul>
+      </div>
+    </div>
+    <!-- CONTENT -->
+    <div class="main-content-wrap"> <!-- closed in foot.html -->
+      <div class="main-content">    <!-- closed in foot.html -->
 
-<!-- Content appended here -->
 
-<div class="jd-content">
+<!-- Content appended here (in class franklin-content) -->
+
+<div class="franklin-content">
 <h1 id="guillaume_berger"><a href="/index.html#guillaume_berger">Guillaume Berger</a></h1>
 
 <table class="imgtable"><tbody><tr><td width="40%">
@@ -62,17 +72,17 @@ My advisor is <a href="https://perso.uclouvain.be/raphael.jungers/">Raphaël Jun
 <p>See <a href="https://uclouvain.be/en/directories/guillaume.berger">here</a>
 <div class="page-foot">
   <div class="copyright">
-    &copy; Guillaume Berger. Last modified: January 15, 2020. Website built with <a href="https://github.com/tlienart/JuDoc.jl">JuDoc.jl</a>.
+    &copy; Guillaume Berger. Last modified: January 24, 2020. Website built with <a href="https://github.com/tlienart/Franklin.jl">Franklin.jl</a>.
   </div>
 </div>
 
 </div>
 <!-- CONTENT ENDS HERE -->
-        </td>
-      </tr>
-    </table>
+    </div> <!-- end of class main-content -->
+    </div> <!-- end of class main-content-wrap -->
+    </div> <!-- end of class page-wrap-->
     
-        
+      
 
 
 
