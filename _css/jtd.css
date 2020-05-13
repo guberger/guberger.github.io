@@ -232,7 +232,7 @@ input[type=checkbox]{display: none;}
 input[type=checkbox]:checked ~ #side-menu{display: block;}
 
 /* side bar adjustments for narrow mode (bar on top) */
-@media (max-width : 50rem){
+@media (max-width : 49.99rem){
   /* Toggle menu off */
   .side-bar .menu {
     display: none;
@@ -249,8 +249,7 @@ input[type=checkbox]:checked ~ #side-menu{display: block;}
 /* side bar adjustments for narrow mode (bar on top) */
 @media (min-width: 31.25rem){
   .side-bar .header .title{
-    font-size:18px !important
-    /* font-size:24px !important */
+    font-size:24px !important
   }
   .menu-list-item{
     font-size:16px !important
@@ -432,12 +431,10 @@ td.fndef-backref {
     margin-bottom: 1em;}
 .franklin-content tr,th,td{
     padding: 10px;
-    border: none}
-    /* border: 1px solid black;} */
+    border: 1px solid black;}
 
 .franklin-content table tbody tr td {
-  border: none;
-  /* border: 1px solid black; */
+  border: 1px solid black;
 }
 
 .franklin-content blockquote {
@@ -467,8 +464,8 @@ td.fndef-backref {
     margin-bottom: 1em;}
 
 
-.franklin-content .fndef table {
-  margin; 0;
+.franklin-content table.fndef {
+  margin: 0;
   margin-bottom: 1em;
   border: 0;
 }
@@ -496,26 +493,13 @@ td.fndef-backref {
 
 .franklin-content img {
     width: 70%;
-    /* width: 70%; */
-    text-align: center;}
-    /* padding-left: 10%; } */
+    text-align: center;
+    padding-left: 10%; }
 
 .franklin-content .img-small img {
     width: 50%;
     text-align: center;
     padding-left: 20%; }
-
-/* Not present initially from here */
-.page-foot {
-    font-size: 80%;
-    font-family: Arial, serif;
-    color: #a6a2a0;
-    text-align: center;
-    margin-top: 6em;
-    border-top: 1px solid lightgrey;
-    padding-top: 2em;
-    margin-bottom: 4em; }
-/* to here */
 
 
 /* ==================================================================

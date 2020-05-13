@@ -9,7 +9,7 @@
 
 * Guillaume O. Berger, P.-A. Absil, Raphaël M. Jungers, Yurii Nesterov, **On the quality of first-order approximation of functions with Hölder continuous gradient**, to appear in _Journal of Optimization Theory and Applications_, 2020. [link](https://link.springer.com/article/10.1007/s10957-020-01632-x) [arXiv](https://arxiv.org/abs/2001.07946) [pdf](/assets/infra/berger2020onthequality.pdf)
 
-* Guillaume O. Berger, Raphaël M. Jungers, **Worst-case topological entropy and minimal data rate for state observation of switched linear systems**, to appear in _Proceedings of 2020 23rd ACM International Conference on Hybrid Systems: Computation and Control (HSCC)_, 2020.
+* Guillaume O. Berger, Raphaël M. Jungers, **Worst-case topological entropy and minimal data rate for state observation of switched linear systems**, to appear in _Proceedings of 2020 23rd ACM International Conference on Hybrid Systems: Computation and Control (HSCC)_, 2020. [pdf](/assets/infra/berger2020worstcase.pdf)
 
 * Guillaume O. Berger, Raphaël M. Jungers, **Formal methods for computing hyperbolic invariant sets for nonlinear systems**, _IEEE Control Systems Letters_, vol. 4, no. 1, pp. 235--240, 2020. [link](https://ieeexplore.ieee.org/abstract/document/8740909) [pdf](/assets/infra/berger2019formal.pdf)
 
