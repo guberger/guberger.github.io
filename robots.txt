@@ -1,4 +1,0 @@
-Sitemap: https://guberger.github.io/sitemap.xml
-
-User-agent: *
-Disallow:
