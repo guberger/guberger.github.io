@@ -31,7 +31,7 @@
 
 # Posters
 
-* GB, Raphaël M. Jungers, **Formal methods for computing hyperbolic invariant sets for nonlinear systems**, 2019 22nd ACM International Conference on Hybrid Systems: Computation and Control (HSCC), April 2019. [pdf](/assets/infra/posterHSCC2019.pdf)
+* GB, Raphaël M. Jungers, **Formal methods for computing hyperbolic invariant sets for nonlinear systems**, 2019 22nd ACM International Conference on Hybrid Systems: Computation and Control, 2019. [pdf](/assets/infra/posterHSCC2019.pdf)
 
 # Master's thesis
 
