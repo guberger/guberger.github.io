@@ -5,6 +5,10 @@
 
 # Papers and proceedings
 
+* GB, Maben Rabi, **Bounds on set exit times of affine systems, using Linear Matrix Inequalities**, to appear in _Proceedings of 2021 7th IFAC Conference on Analysis and Design of Hybrid Systems_, 2021. [pdf](/assets/infra/berger2021bounds.pdf)
+
+* GB, Raphaël M. Jungers, Zheming Wang, **Chance-constrained quasi-convex optimization with application to data-driven switched systems control**, to appear in _Proceedings of 2021 3rd Annual Learning for Dynamics & Control Conference_, 2021. [arXiv](https://arxiv.org/abs/2101.01415) [pdf](/assets/infra/berger2021chanceconstrained.pdf)
+
 * GB, Raphaël M. Jungers, **Quantized stabilization of continuous-time switched linear systems**, _IEEE Control Systems Letters_, vol. 5, no. 1, pp. 319--324, 2021. [link](https://ieeexplore.ieee.org/document/9115486) [pdf](/assets/infra/berger2020quantized.pdf)
 
 * GB, Raphaël M. Jungers, **Finite data-rate feedback stabilization of continuous-time switched linear systems with unknown switching signal**, _Proceedings of 2020 59th Conference on Decision and Control_, pp. 3823--3828, 2020. [link](https://ieeexplore.ieee.org/document/9304214) [arXiv](https://arxiv.org/abs/2009.04715) [pdf](/assets/infra/berger2020finite.pdf)
@@ -22,10 +26,6 @@
 * GB, Fulvio Forni, Raphaël M. Jungers, **Path-complete $p$-dominant switching linear systems**, _Proceedings of 2018 57th IEEE Conference on Decision and Control_, pp. 6446--645, 2018. [link](https://ieeexplore.ieee.org/document/8619703) [arXiv](https://arxiv.org/abs/1808.09757) [pdf](/assets/infra/berger2018path.pdf)
 
 # Preprints
-
-* GB, Maben Rabi, **Bounds on set exit times of affine systems, using Linear Matrix Inequalities**, submitted to _2021 7th IFAC Conference on Analysis and Design of Hybrid Systems_, 2021. [pdf](/assets/infra/berger2021bounds.pdf)
-
-* GB, Raphaël M. Jungers, Zheming Wang, **Chance-constrained quasi-convex optimization with application to data-driven switched systems control**, submitted to _2021 3rd Annual Learning for Dynamics & Control Conference_, 2021. [arXiv](https://arxiv.org/abs/2101.01415) [pdf](/assets/infra/berger2021chanceconstrained.pdf)
 
 * GB, P.-A. Absil, Lieven De Lathauwer, Raphaël M. Jungers, Marc Van Barel, **Equivalent polyadic decompositions of matrix multiplication tensors**, _arXiv preprint_, 2019. [arXiv](https://arxiv.org/abs/1902.03950) [pdf](/assets/infra/berger2019equivalent.pdf)
 

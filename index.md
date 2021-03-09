@@ -34,6 +34,10 @@ My area of research is the analysis, control, and optimization of complex system
 
 ## News
 
+[3/2021] Our paper **Chance-constrained quasi-convex optimization with application to data-driven switched systems control** was accepted for presentation at _2021 3rd Annual Learning for Dynamics & Control Conference_ (June 2021)
+
+[3/2021] Our paper **Bounds on set exit times of affine systems, using Linear Matrix Inequalities** was accepted for presentation at _2021 7th IFAC Conference on Analysis and Design of Hybrid Systems_ (July 2021)
+
 [7/2020] Our paper **Finite data-rate feedback stabilization of continuous-time switched linear systems with unknown switching signal** was accepted for presentation at _2020 59th Conference on Decision and Control_ (December 2020)
 
 [5/2020] Our paper **Quantized stabilization of continuous-time switched linear systems** was accepted for publication in _IEEE Control Systems Letters_
