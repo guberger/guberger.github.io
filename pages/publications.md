@@ -27,6 +27,8 @@
 
 # Preprints
 
+* Zheming Wang, GB, Raphaël M. Jungers, **Data-driven feedback stabilization of switched linear systems with probabilistic stability guarantees**, _arXiv preprint_, 2021. [arXiv](https://arxiv.org/abs/2103.10823)
+
 * GB, P.-A. Absil, Lieven De Lathauwer, Raphaël M. Jungers, Marc Van Barel, **Equivalent polyadic decompositions of matrix multiplication tensors**, _arXiv preprint_, 2019. [arXiv](https://arxiv.org/abs/1902.03950) [pdf](/assets/infra/berger2019equivalent.pdf)
 
 # Posters
