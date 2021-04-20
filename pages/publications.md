@@ -13,7 +13,7 @@
 
 * GB, Raphaël M. Jungers, **Finite data-rate feedback stabilization of continuous-time switched linear systems with unknown switching signal**, _Proceedings of 2020 59th Conference on Decision and Control_, pp. 3823--3828, 2020. [link](https://ieeexplore.ieee.org/document/9304214) [arXiv](https://arxiv.org/abs/2009.04715) [pdf](/assets/infra/berger2020finite.pdf)
 
-* GB, Raphaël M. Jungers, **Topological entropy and minimal data rate for state observation of LTV systems**, to appear in _Proceedings of 2020 21st IFAC World Congress_, 2020. [pdf](/assets/infra/berger2020topologicalLTV.pdf)
+* GB, Raphaël M. Jungers, **Topological entropy and minimal data rate for state observation of LTV systems**, _IFAC-PapersOnLine_, vol. 53, no. 2, pp. 3060--3065, 2020. [link](https://www.sciencedirect.com/science/article/pii/S2405896320313720) [pdf](/assets/infra/berger2020topologicalLTV.pdf)
 
 * GB, P.-A. Absil, Raphaël M. Jungers, Yurii Nesterov, **On the quality of first-order approximation of functions with Hölder continuous gradient**, _Journal of Optimization Theory and Applications_, vol. 185, pp. 17--33, 2020. [link](https://link.springer.com/article/10.1007/s10957-020-01632-x) [arXiv](https://arxiv.org/abs/2001.07946) [pdf](/assets/infra/berger2020onthequality.pdf)
 
