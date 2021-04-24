@@ -34,6 +34,8 @@ My area of research is the analysis, control, and optimization of complex system
 
 ## News
 
+[4/2021] Our paper **Worst-case topological entropy and minimal data rate for state observation of switched linear systems** was selected for publication in _Communications of the ACM (CACM) Research Highlights_ ([https://cacm.acm.org](https://cacm.acm.org))
+
 [3/2021] Our paper **Chance-constrained quasi-convex optimization with application to data-driven switched systems control** was accepted for presentation at _2021 3rd Annual Learning for Dynamics & Control Conference_ (June 2021)
 
 [3/2021] Our paper **Bounds on set exit times of affine systems, using Linear Matrix Inequalities** was accepted for presentation at _2021 7th IFAC Conference on Analysis and Design of Hybrid Systems_ (July 2021)
