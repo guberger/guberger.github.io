@@ -5,7 +5,7 @@
 
 # Papers and proceedings
 
-* GB, Maben Rabi, **Bounds on set exit times of affine systems, using Linear Matrix Inequalities**, to appear in _Proceedings of 2021 7th IFAC Conference on Analysis and Design of Hybrid Systems_, 2021. [pdf](/assets/infra/berger2021bounds.pdf)
+* GB, Maben Rabi, **Bounds on set exit times of affine systems, using Linear Matrix Inequalities**, to appear in _Proceedings of 2021 7th IFAC Conference on Analysis and Design of Hybrid Systems_, 2021. [arXiv](https://arxiv.org/abs/2104.12682) [pdf](/assets/infra/berger2021bounds.pdf)
 
 * GB, Raphaël M. Jungers, Zheming Wang, **Chance-constrained quasi-convex optimization with application to data-driven switched systems control**, to appear in _Proceedings of 2021 3rd Annual Learning for Dynamics & Control Conference_, 2021. [arXiv](https://arxiv.org/abs/2101.01415) [pdf](/assets/infra/berger2021chanceconstrained.pdf)
 
