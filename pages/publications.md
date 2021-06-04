@@ -7,13 +7,13 @@
 
 * GB, Maben Rabi, **Bounds on set exit times of affine systems, using Linear Matrix Inequalities**, to appear in _Proceedings of 2021 7th IFAC Conference on Analysis and Design of Hybrid Systems_, 2021. [arXiv](https://arxiv.org/abs/2104.12682) [pdf](/assets/infra/berger2021bounds.pdf)
 
-* GB, Raphaël M. Jungers, Zheming Wang, **Chance-constrained quasi-convex optimization with application to data-driven switched systems control**, to appear in _Proceedings of 2021 3rd Annual Learning for Dynamics & Control Conference_, 2021. [arXiv](https://arxiv.org/abs/2101.01415) [pdf](/assets/infra/berger2021chanceconstrained.pdf)
+* GB, Raphaël M. Jungers, Zheming Wang, **Chance-constrained quasi-convex optimization with application to data-driven switched systems control**, _Proceedings of 2021 3rd Annual Learning for Dynamics & Control Conference_, _PMLR_, vol. 144, pp. 571--583, 2021. [link](http://proceedings.mlr.press/v144/berger21a.html) [arXiv](https://arxiv.org/abs/2101.01415) [pdf](/assets/infra/berger2021chanceconstrained.pdf)
 
 * GB, Raphaël M. Jungers, **Quantized stabilization of continuous-time switched linear systems**, _IEEE Control Systems Letters_, vol. 5, no. 1, pp. 319--324, 2021. [link](https://ieeexplore.ieee.org/document/9115486) [pdf](/assets/infra/berger2020quantized.pdf)
 
 * GB, Raphaël M. Jungers, **Finite data-rate feedback stabilization of continuous-time switched linear systems with unknown switching signal**, _Proceedings of 2020 59th Conference on Decision and Control_, pp. 3823--3828, 2020. [link](https://ieeexplore.ieee.org/document/9304214) [arXiv](https://arxiv.org/abs/2009.04715) [pdf](/assets/infra/berger2020finite.pdf)
 
-* GB, Raphaël M. Jungers, **Topological entropy and minimal data rate for state observation of LTV systems**, _IFAC-PapersOnLine_, vol. 53, no. 2, pp. 3060--3065, 2020. [link](https://www.sciencedirect.com/science/article/pii/S2405896320313720) [pdf](/assets/infra/berger2020topologicalLTV.pdf)
+* GB, Raphaël M. Jungers, **Topological entropy and minimal data rate for state observation of LTV systems**, _Proceedings of 2020 21th IFAC World Congress_, _IFAC-PapersOnLine_, vol. 53, no. 2, pp. 3060--3065, 2020. [link](https://www.sciencedirect.com/science/article/pii/S2405896320313720) [pdf](/assets/infra/berger2020topologicalLTV.pdf)
 
 * GB, P.-A. Absil, Raphaël M. Jungers, Yurii Nesterov, **On the quality of first-order approximation of functions with Hölder continuous gradient**, _Journal of Optimization Theory and Applications_, vol. 185, pp. 17--33, 2020. [link](https://link.springer.com/article/10.1007/s10957-020-01632-x) [arXiv](https://arxiv.org/abs/2001.07946) [pdf](/assets/infra/berger2020onthequality.pdf)
 
