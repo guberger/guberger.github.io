@@ -5,6 +5,8 @@
 
 # Papers and proceedings
 
+* GB, Raphaël M. Jungers, **$p$-dominant switched linear systems**, _Automatica_, vol. 132, 2021. [link](https://www.sciencedirect.com/science/article/pii/S0005109821003216) [pdf](/assets/infra/berger2021pdominant.pdf)
+
 * GB, Maben Rabi, **Bounds on set exit times of affine systems, using Linear Matrix Inequalities**, to appear in _Proceedings of 2021 7th IFAC Conference on Analysis and Design of Hybrid Systems_, 2021. [arXiv](https://arxiv.org/abs/2104.12682) [pdf](/assets/infra/berger2021bounds.pdf)
 
 * GB, Raphaël M. Jungers, Zheming Wang, **Chance-constrained quasi-convex optimization with application to data-driven switched systems control**, _Proceedings of 2021 3rd Annual Learning for Dynamics & Control Conference_, _PMLR_, vol. 144, pp. 571--583, 2021. [link](http://proceedings.mlr.press/v144/berger21a.html) [arXiv](https://arxiv.org/abs/2101.01415) [pdf](/assets/infra/berger2021chanceconstrained.pdf)
