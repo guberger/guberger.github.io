@@ -5,7 +5,7 @@
 
 # Papers and proceedings
 
-* GB, Raphaël M. Jungers, **$p$-dominant switched linear systems**, _Automatica_, vol. 132, 2021. [link](https://www.sciencedirect.com/science/article/pii/S0005109821003216) [pdf](/assets/infra/berger2021pdominant.pdf)
+* GB, Raphaël M. Jungers, **$p$-dominant switched linear systems**, _Automatica_, vol. 132, 109801, 2021. [link](https://www.sciencedirect.com/science/article/pii/S0005109821003216) [pdf](/assets/infra/berger2021pdominant.pdf)
 
 * GB, Maben Rabi, **Bounds on set exit times of affine systems, using Linear Matrix Inequalities**, to appear in _Proceedings of 2021 7th IFAC Conference on Analysis and Design of Hybrid Systems_, 2021. [arXiv](https://arxiv.org/abs/2104.12682) [pdf](/assets/infra/berger2021bounds.pdf)
 
