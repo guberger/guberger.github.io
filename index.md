@@ -8,7 +8,7 @@
 
 ~~~
 <table class="imgtable"><tbody><tr style="border: none;"><td width="40%" style="border: none;">
-<img class="img-profile" src="/assets/infra/myprofile.png" alt="Photo of me">&nbsp;</td>
+<img class="img-profile" src="/assets/infra/myprofile.jpg" alt="Photo of me">&nbsp;</td>
 <td align="left" style="border: none;"><p>
 Ph.D. student, mathematical engineering<br>
 Member of <a href="https://uclouvain.be/en/research-institutes/icteam">ICTEAM Institute,</a><br>
