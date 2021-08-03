@@ -34,6 +34,8 @@ My area of research is the analysis, control, and optimization of complex system
 
 ## News
 
+[7/2021] Our papers **Complexity of the LTI system trajectory boundedness problem** and **Data-driven feedback stabilization of switched linear systems with probabilistic stability guarantees** were accepted for presentation at _2021 60th Conference on Decision and Control_ (December 2021)
+
 [5/2021] Our paper **$p$-dominant switched linear systems** was accepted for publication in _Automatica_
 
 [4/2021] Our paper **Worst-case topological entropy and minimal data rate for state observation of switched linear systems** was selected for publication in _Communications of the ACM Research Highlights_ ([https://cacm.acm.org](https://cacm.acm.org))
