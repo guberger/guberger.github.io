@@ -5,4 +5,5 @@
 
 # Toolboxes
 
-[Dominance.jl](https://github.com/guberger/Dominance.jl): A package for dominance analysis
+* [Dominance.jl](https://github.com/guberger/Dominance.jl): A package for dominance analysis
+* [SwitchingTimes.jl](https://github.com/guberger/SwitchingTimes.jl): A toolbox to compute the switching times of switched linear and affine systems
