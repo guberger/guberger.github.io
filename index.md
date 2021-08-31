@@ -10,11 +10,11 @@
 <table class="imgtable"><tbody><tr style="border: none;"><td width="40%" style="border: none;">
 <img class="img-profile" src="/assets/infra/myprofile.jpg" alt="Photo of me">&nbsp;</td>
 <td align="left" style="border: none;"><p>
-Ph.D. student, mathematical engineering<br>
+Ph.D. Mathematical Engineering<br>
 Member of <a href="https://uclouvain.be/en/research-institutes/icteam">ICTEAM Institute,</a><br>
 Applied mathematics department,<br>
 Université Catholique of Louvain (<a href="https://uclouvain.be/fr/index.html">UCLouvain</a>)<br>
-<a href="https://www.frs-fnrs.be/en/financements/chercheur-doctorant#fria">FNRS/FRIA</a> Research fellow<br>
+<a href="https://baef.be/">BAEF</a> fellow, <a href="https://www.frs-fnrs.be/en/financements/chercheur-doctorant#fria">FNRS/FRIA</a> research fellow<br>
 My advisor is <a href="https://perso.uclouvain.be/raphael.jungers/">Raphaël Jungers</a>
 </p>
 <h3>Quick links</h3>

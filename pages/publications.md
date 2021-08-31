@@ -39,6 +39,10 @@
 
 * GB, Raphaël M. Jungers, **Formal methods for computing hyperbolic invariant sets for nonlinear systems**, 2019 22nd ACM International Conference on Hybrid Systems: Computation and Control, 2019. [pdf](/assets/infra/posterHSCC2019.pdf)
 
+# Ph.D. thesis
+
+* GB, **Dominated splitting and quantization of hybrid systems: towards efficient control of cyber-physical systems and networked control systems**, UCLouvain, 2021. [link](https://dial.uclouvain.be/pr/boreal/object/boreal:250202) [pdf](/assets/infra/phdThesis2021.pdf)
+
 # Master's thesis
 
 * GB, **Fast matrix multiplication**, UCLouvain, 2017. [link](https://dial.uclouvain.be/memoire/ucl/object/thesis:10630) [pdf](/assets/infra/masterThesis2017.pdf)
