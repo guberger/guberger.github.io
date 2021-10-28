@@ -52,4 +52,10 @@ My area of research is the analysis, control, and optimization of complex system
 
 ## Contact
 
-See [here](https://uclouvain.be/en/directories/guillaume.berger)
+Engineering Center ECCS 121\\
+CU Programming Languages and Verification Laboratory\\
+Campus Box UCB 0430\\
+University of Colorado Boulder CO\\
+80309-0430
+
+guillaume (dot) berger (at) uclouvain (dot) be (temporary)
