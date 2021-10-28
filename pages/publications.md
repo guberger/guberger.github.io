@@ -3,7 +3,7 @@
 @def date = Dates.today()
 @def rss = "Guillaume Berger UCLouvain professional website publications"
 
-# Papers and proceedings
+# Journals and conferences
 
 * GB, Raphaël M. Jungers, **Complexity of the LTI system trajectory boundedness problem**, to appear in _Proceedings of 2021 60th Conference on Decision and Control_, 2021. [arXiv](https://arxiv.org/abs/2108.00728)
 
