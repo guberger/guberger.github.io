@@ -10,12 +10,11 @@
 <table class="imgtable"><tbody><tr style="border: none;"><td width="40%" style="border: none;">
 <img class="img-profile" src="/assets/infra/myprofile.jpg" alt="Photo of me">&nbsp;</td>
 <td align="left" style="border: none;"><p>
-Ph.D. Mathematical Engineering<br>
-Member of <a href="https://uclouvain.be/en/research-institutes/icteam">ICTEAM Institute,</a><br>
-Applied mathematics department,<br>
-Université Catholique of Louvain (<a href="https://uclouvain.be/fr/index.html">UCLouvain</a>)<br>
-<a href="https://baef.be/">BAEF</a> fellow, <a href="https://www.frs-fnrs.be/en/financements/chercheur-doctorant#fria">FNRS/FRIA</a> research fellow<br>
-My advisor is <a href="https://perso.uclouvain.be/raphael.jungers/">Raphaël Jungers</a>
+Post-doctoral researcher in System Engineering at<br>
+<a href="https://plv.colorado.edu/">Programming Languages and Verification Laboratory</a>,<br>
+Computer Science department,<br>
+<a href="https://www.colorado.edu/">University of Colorado Boulder</a><br>
+<a href="https://baef.be/">BAEF</a> fellow<br>
 </p>
 <h3>Quick links</h3>
 <p><a href="https://scholar.google.be/citations?user=z_q7fV0AAAAJ&hl=fr">Google Scholar</a><br>
@@ -27,10 +26,9 @@ My advisor is <a href="https://perso.uclouvain.be/raphael.jungers/">Raphaël Jun
 
 ## Research interests
 
-My area of research is the analysis, control, and optimization of complex systems, like _Cyber-Physical Systems_ and _Hybrid Systems_. Until now, I have been mainly working on _Switched Linear Systems_, a prototypical class of cyber-physical and hybrid systems. My previous research includes:
+My area of research is the analysis, control, and optimization of complex systems, like _cyber-physical systems_ and _hybrid systems_. I am particularly interested in the formal verification and data-driven analysis of these systems, using tools from optimization, computer science and machine learning. 
 
-* The study of _$p$-dominance_&#8212;a generalization of the notions of positivity, and slow and fast modes&#8212;for switched linear systems. This finds applications for instance in the study of the convergence of such systems to low-dimensional subspaces (e.g., for consensus, "model order reduction").
-* _Quantized control_ of switched linear systems. This involves determining the minimal data rate needed by an observer or a controller, to observe the state of the system or to achieve a given control task. This is relevant for instance for the control of systems over communication networks, as it is the case in more and more cyber-physical systems.
+
 
 ## News
 
