@@ -1,13 +1,27 @@
-files = readdir(joinpath(@__DIR__, "./pages"))
+using LiveServer
 
-header_s = read(joinpath(@__DIR__, "header.html"), String)
-footer_s = read(joinpath(@__DIR__, "footer.html"), String)
+function generate_files(cycle_counter::Int)
+    if mod(cycle_counter, 30) != 0
+        return
+    end
 
-for f in files
-    out_file = open(joinpath(@__DIR__, f), "w")
-    s = read(joinpath(@__DIR__, "./pages/", f), String)
-    write(out_file, header_s)
-    write(out_file, s)
-    write(out_file, footer_s)
-    close(out_file)
+    filenames = readdir(joinpath(@__DIR__, "./pages"))
+
+    header_str = read(joinpath(@__DIR__, "header.html"), String)
+    footer_str = read(joinpath(@__DIR__, "footer.html"), String)
+
+    for fname in filenames
+        out_file = open(joinpath(@__DIR__, fname), "w")
+        file_str = read(joinpath(@__DIR__, "./pages/", fname), String)
+        write(out_file, header_str)
+        write(out_file, file_str)
+        write(out_file, footer_str)
+        close(out_file)
+    end
 end
+
+function my_serve()
+    coreloopfun = (cycle_counter, fw) -> generate_files(cycle_counter)
+    LiveServer.serve(coreloopfun=coreloopfun)
+end
+

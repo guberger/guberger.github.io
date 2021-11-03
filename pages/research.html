@@ -1,80 +1,17 @@
-<h3>Introduction: systems and control</h3>
+<h2>Research interests</h2>
+
+<h3>Cyber-physical systems: when the continuous meets the discrete</h3>
 
 <p>
-A <strong>system</strong> is an entity or a group of interdependent entities that act according to a set of rules and are affected by their environment and/or external stimuli.
-Systems are ubiquitous in our technological world and in nature: for instance,
-<ul>
-<li><p>in biology: populations of bacteria, plants, animals, etc., evolve according to some rules and are influenced by the environment, such as food supplies, climate conditions, etc.;</p></li>
-<li><p>in social science: the opinion or attitude of a social group can be seen as a system that evolves according to sociological and behavioral <q>rules</q>, and is influenced by external stimuli, such as media, interactions with external people, etc.;</p></li>
-<li><p>in technologies: robots are devices including mechanical, electronic and computerized components that act as a whole governed by physical, electrical and algorithmic rules, and they are influenced by their environment and react to external inputs;</p></li>
-</ul>
+Cyber-physical systems are systems that include both physical and computerized components, with strong interactions between the two types of components.
+Examples of cyber-physical systems include: self-driving cars, Wireless Control Networks (where the controlling devices communicate through error-prone, physically constrained wireless channels), autonomous robots, smart medical devices, and many others.
 </p>
 
 <p>
-The goal of systems and control theory is to understand how these systems are working (<strong>system analysis</strong>), or to design control strategies, that is, defining a sequence of inputs for the system, so that the system acts in some predefined way (<strong>control design</strong>).
-To illustrate this, let us take the example of a platoon of self-driving cars:
-</p>
-<figure>
-<img style="max-width: 400px;" src="/assets/fig_platoon_cars.png">
-<figcaption>Platoon of self-driving cars (image adapted from <a href="https://ieeexplore.ieee.org/document/8957499">here</a>).</figcaption>
-</figure>
-<p>
-In most situations, it is important that the cars maintain a minimal safety distance between them.
-A control strategy to do that <i>could</i> be:</p>
-<blockquote>
-<p>if the distance with the car in front is below some threshold: brake with maximal strength; if the distance with the car behind is below some threshold: put the acceleration at the maximum; otherwise: do nothing (except maintaining constant speed).</p>
-</blockquote>
-<p>
-However, this strategy is probably not the best one (in general such <q>bang-bang</q> strategies produce oscillations that rapidly become out of control).
-Another strategy could be to set the acceleration or braking intensity proportional to the gap between the actual and the ideal distance between cars.
-<i>Would this be a good strategy to solve the problem?</i>
-Mathematicians, scientists and engineers have been facing similar questions for ages (it goes back for instance to the work of James Watt on the regulation of steam machines).
-The best way we have found so far to answer these questions rigorously is to build a <strong>mathematical model</strong> of the system and to use mathematical tools to study it.
-</p>
-
-<p>
-Systems and control engineers thus study mathematical models of systems to derive properties of the system or to design control strategies so that the system acts in some specified way.
-These models generally comprise <strong>ordinary differential equations</strong> to model the evolution of continuous variables (the velocity of the car is an example of continuous variable), <strong>switching rules</strong> to model the transitions of the system between different discrete states (the gear position of the car is an example of discrete variable), or <strong>stochastic processes</strong> to account for random phenomenons and unknown disturbances (the <q>patinage</q> of the car wheels is an example of random phenomenon).
-</p>
-
-<h3>Cyber-physical systems: a major rising challenge in modern control</h3>
-
-<p>
-Modern control systems are a big challenge for control theorists because these systems are becoming increasingly complex.
-We think for instance to <strong>cyber-physical systems</strong> (CPS), which are systems that include both physical and computerized components, with strong interactions between the two types of components.
-Self-driving cars are a good illustrative example of CPS: the physics of the system (velocity, acceleration, etc.) interacts with complex algorithms and software components implemented in decentralized or embedded micro-controllers.
-</p>
-
-<p>
-Other examples of CPS include: Wireless Control Networks (where the controlling devices, which often consist of embedded and decentralized components, communicate through error-prone, physically constrained wireless channels), Smart Energy Grids (where local devices that produce or consume electricity have to computationally optimize the global behavior of the grid, taking into account physical and human constraints), autonomous robots, smart medical devices, and many others.
-</p>
-
-<p>
-Systems including physical and computerized elements are not new, but it is only recently that it has become urgent to reason about these systems as a whole and not only as a collection of physical or cyber subsystems.
-To illustrate this, let us take the example of self-driving cars: for the control of these systems, one cannot dissociate the questions of control and communication, as issues in communication with the other cars will have a direct impact on the control of the car, and reversely the controlling devices of the car may trigger communication with the other cars when some conditions are met.
-</p>
-
-<p>
-CPS have many <strong>non-standard characteristics</strong>, which preclude the use of classical control techniques; see, e.g., the figure below for some of these characteristics.
-Of particular importance,
-<ul>
-<li><p>they have a <strong>hybrid behavior</strong>, which results from the interaction of discrete phenomenons (the <q>cyber</q> part) and continuous phenomenons (the <q>physical</q> part);</p></li>
-<li><p>they are subject to unknown or even <strong>adversarial disturbances</strong>, due to the presence of stochasticity and humans in the loop;</p></li>
-<li><p>they often involve spatially distributed components that communicate via a shared communication network (<strong>networked systems</strong>);</p></li>
-<li><p>they are subject to physical and <strong>resource constraints</strong>.</p></li>
-</ul>
-As a consequence, CPS are in general very hard to analyze, control, and design.
-Moreover, CPS are often involved in <strong>safety-critical</strong> applications (self-driving cars, medical devices, energy grids, etc.).
-
-<figure>
-<img style="max-width: 600px;" src="/assets/fig_cps_characteristics.png">
-<figcaption>Some challenging aspects of CPS.</figcaption>
-</figure>
-
-<p>
-Several major advances in the understanding and design of these systems have been made in the last decades, allowing to provide workable solutions to a wide range of practical problems involving CPS, and contributing to the phenomenal expansion of CPS in the last years (coined as the <i>cyber-physical revolution</i>).
-This entailed the development of new techniques that are as interdisciplinary as the systems that they seek to control (namely, by combining tools from systems and control theory, computer science, information theory, physics, pure mathematics, etc.).
-However, despite the significant progress, CPS continue to be extremely challenging in terms of analysis and control, thereby calling for continued improvements and developments of techniques for their study and design.
+A crucial aspect of cyber-physical systems is their hybrid behavior, resulting from the interaction of continuous dynamics (arising from physical processes) with discrete dynamics (arising from computerized processes).
+Classical control techniques generally focus on the study of systems with continuous variables, while other branches of mathematics and computer sciences (like graph theory or logic) focus on the study of systems with discrete variables.
+Unfortunately, these techniques are generally not usable for the study of systems with interdependent continuous and discrete variables.
+The study of cyber-physical systems thereby entails the development of new control and analysis techniques, combining tools from different branches of mathematics and computer sciences to deal with their hybrid behavior.
 </p>
 
 <h3>Formal verification of systems: when the discrete meets the continuous</h3>
