@@ -14,8 +14,20 @@ Unfortunately, these techniques are generally not usable for the study of system
 The study of cyber-physical systems thereby entails the development of new control and analysis techniques, combining tools from different branches of mathematics and computer sciences to deal with their hybrid behavior.
 </p>
 
-<h3>Formal verification of systems: when the discrete meets the continuous</h3>
+<h3>Formal verification: toward automatic, reliable analysis of systems</h3>
 
 <p>
-To be expanded
+Cyber-physical systems are often involved in safety-critical applications (like self-driving cars, medical devices, Unmanned Aerial Vehicles, etc.).
+Therefore, it is important to provide formal guarantees that these system will work as intended.
+The goal of formal verification is to automatize the analysis of these systems in order to provide certificate that they are safe and/or optimal.
+</p>
+
+<p>
+Formal verification techniques require a representation of the system that is amenable for computer processing.
+This generally involves a step of abstraction where the system is represented as a collection of smaller subsystems with simpler dynamics (like an automaton or a switched linear system).
+The drawback is that, to be accurate, the size of the abstraction generally grows very rapidly, especially with respect to the dimension of the system (this is the curse of dimensionality), so that these techniques are generally applicable only for systems of small dimension (typically smaller than ten).
+</p>
+
+<p>
+[To be continued...]
 </p>
