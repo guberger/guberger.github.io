@@ -78,9 +78,26 @@ This generally involves a step of abstraction where the system is represented as
 The drawback is that, to be accurate, the size of the abstraction generally grows very rapidly, especially with respect to the dimension of the system (this is the curse of dimensionality), so that these techniques are generally applicable only for systems of small dimension (typically smaller than ten).
 </p>
 
+<h3>Data-driven analysis: learning cyber-physical systems solutions from data</h3>
+
 <p>
-[To be continued...]
-</p></div> <!-- item -->
+The principle of data-driven analysis and control is to study the properties and provide solutions for the control of cyber-physical systems by relying on data harvested from the observation of the trajectories of the system.
+There are several motivations for doing this:</p>
+<ul>
+<li><p>The model of the system is not accessible (as for proprietary systems), or is too complex to be modeled, or is best described with data harvested from observations than with a rigid, closed-form model (as for systems interacting with humans);</p>
+<li><p>Hybrid system analysis and control is in general very hard, so that having a model of the system does not always help to provide efficient solutions for the study of these systems;</p>
+<li><p>Data sometimes come in huge quantities: e.g., harvested from observations, training or simulations.</p>
+</ul>
+
+<p>
+Data-driven study of cyber-physical systems includes, but is not restricted to, hybrid system identification, data-driven stability analysis, data-driven controller design and data-driven abstraction of cyber-physical systems.
+All the related control problems are known to be very hard in general, so that the solutions are often partial and rely on heuristics.
+Moreover, the learned solution depends on the collected data, so that in general only probabilistic guarantees on the effectiveness of the solution can be provided.
+</p>
+
+<p>[To be continued]</p>
+
+</div> <!-- item -->
 </div> <!-- main -->
 
 <div class="footer">
