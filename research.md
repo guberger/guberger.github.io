@@ -1,5 +1,5 @@
 +++
-title = "Research interests"
+title = "Research"
 +++
 
 Some past and current research projects
