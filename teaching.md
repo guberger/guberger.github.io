@@ -14,5 +14,5 @@ Master/doctorate-level class\
 
 UCLouvain, Fall 2023\
 Bachelor-level class\
-Co-thaugh with Prof. François Glineur\
+Co-thaught with Prof. François Glineur\
 [Syllabus Fall 2023](/linfo1111/)
