@@ -28,3 +28,8 @@ See [here](https://uclouvain.be/fr/repertoires/guillaume.berger)
 * [Google Scholar](https://scholar.google.be/citations?user=z_q7fV0AAAAJ&hl=fr)
 * [CV](/assets/cv.pdf)
 * [Github](https://github.com/guberger)
+
+# News
+
+* I will be at HSCC, Hong Kong, in May 2024
+* I will be at ADHS, Boulder, Colorado, in July 2024
