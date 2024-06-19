@@ -66,3 +66,4 @@ For this last part, a mainly "tool" approach will be favored.
 # Other resources
 
 * [Exam January](/assets/linfo1111/exam-january.pdf)
+* [Exam June](/assets/linfo1111/exam-june.pdf)
