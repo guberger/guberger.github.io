@@ -2,7 +2,7 @@
 title = "Teaching"
 +++
 
-Past and current teached class
+Past and current teached class.
 
 # CSCI 5654 Linear Programming
 

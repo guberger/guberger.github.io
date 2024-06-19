@@ -2,7 +2,7 @@
 title = "Research"
 +++
 
-Some past and current research projects
+Some past and current research projects.
 
 # Data-driven analysis and control of cyber-physical systems
 

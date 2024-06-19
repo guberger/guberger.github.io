@@ -21,7 +21,7 @@ I am particularly interested in formal verification and data-driven analysis of 
 
 # Contact
 
-See [here](https://uclouvain.be/fr/repertoires/guillaume.berger)
+See [here](https://uclouvain.be/fr/repertoires/guillaume.berger).
 
 # Links
 
@@ -31,5 +31,4 @@ See [here](https://uclouvain.be/fr/repertoires/guillaume.berger)
 
 # News
 
-* I will be at HSCC, Hong Kong, in May 2024
-* I will be at ADHS, Boulder, Colorado, in July 2024
+* I will be at ADHS, Boulder, Colorado, in July 2024.
