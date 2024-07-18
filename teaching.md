@@ -2,17 +2,23 @@
 title = "Teaching"
 +++
 
-Past and current teached class.
+# Past and current teached class
 
-# CSCI 5654 Linear Programming
+## LINMA2725 Stochastic Optimal Control and Reinforcement Learning
 
-CU Boulder, Spring 2023\
-Master/doctorate-level class\
-[Syllabus Spring 2023](/csci5654/)
+UCLouvain, Fall 2024\
+Master class\
+Co-thaught with Profs. Gianluca Bianchin and Raphaël Jungers
 
-# LINFO1111 Calculus
+## LINFO1111 Calculus
 
 UCLouvain, Fall 2023\
-Bachelor-level class\
+Undergraduate class\
 Co-thaught with Prof. François Glineur\
 [Syllabus Fall 2023](/linfo1111/)
+
+## CSCI 5654 Linear Programming
+
+University of Colorado Boulder, Spring 2023\
+Master/graduate class\
+[Syllabus Spring 2023](/csci5654/)
