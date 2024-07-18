@@ -2,32 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-    <loc>https://guberger.github.io/index.html</loc>
-    <lastmod>2024-06-19</lastmod>
+    <loc>https://tlienart.github.io/FranklinTemplates.jl/index.html</loc>
+    <lastmod>2024-07-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
-    <loc>https://guberger.github.io/linfo1111/index.html</loc>
-    <lastmod>2024-06-19</lastmod>
+    <loc>https://tlienart.github.io/FranklinTemplates.jl/linfo1111/index.html</loc>
+    <lastmod>2024-07-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
-    <loc>https://guberger.github.io/research/index.html</loc>
-    <lastmod>2024-06-19</lastmod>
+    <loc>https://tlienart.github.io/FranklinTemplates.jl/teaching/index.html</loc>
+    <lastmod>2024-07-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
-    <loc>https://guberger.github.io/teaching/index.html</loc>
-    <lastmod>2024-06-19</lastmod>
+    <loc>https://tlienart.github.io/FranklinTemplates.jl/csci5654/index.html</loc>
+    <lastmod>2024-07-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
-    <loc>https://guberger.github.io/csci5654/index.html</loc>
-    <lastmod>2024-06-19</lastmod>
+    <loc>https://tlienart.github.io/FranklinTemplates.jl/projects/index.html</loc>
+    <lastmod>2024-07-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://tlienart.github.io/FranklinTemplates.jl/publications/index.html</loc>
+    <lastmod>2024-07-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
