@@ -2,7 +2,7 @@
 title = "Projects"
 +++
 
-# Main Current Research Projects
+# Some current research projects
 
 ## Data-Driven Analysis and Control of Cyber-Physical Systems
 
