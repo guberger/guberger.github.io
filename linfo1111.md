@@ -69,3 +69,4 @@ For this last part, a mainly "tool" approach will be favored.
 
 * [Exam January](/assets/linfo1111/exam-january.pdf)
 * [Exam June](/assets/linfo1111/exam-june.pdf)
+* [Exam August](/assets/linfo1111/exam-august.pdf)
