@@ -16,7 +16,7 @@ _IEEE Transactions on Automatic Control_, early access, 2024 [[pdf]](/assets/pap
 
 **Data-driven stability analysis of switched linear systems using adaptive sampling**\
 Alexis Vuille, Guillaume Berger, Raphaël Jungers\
-To appear in _Conference on Analysis and Design of Hybrid Systems (ADHS)_, 2024
+_Conference on Analysis and Design of Hybrid Systems (ADHS)_, 2024 [[pdf]](/assets/papers/10.1016_j.ifacol.2024.07.421.pdf)
 
 **Algorithms for identifying flagged and guarded linear systems**\
 Guillaume Berger, Monal Narasimhamurthy, Sriram Sankaranarayanan\
