@@ -8,11 +8,11 @@ title = "Publications"
 
 **Template-based piecewise affine regression**\
 Guillaume Berger, Sriram Sankaranarayanan\
-To appear in _Research Directions: Cyber-Physical Systems_, 2024
+_Research Directions: Cyber-Physical Systems_, vol. 2, 2024 [[pdf]](/assets/papers/template-based-piecewise-affine-regression.pdf)
 
 **Data-driven control of unknown switched linear systems using scenario optimization**\
 Zheming Wang, Guillaume Berger, Raphaël Jungers\
-_IEEE Transactions on Automatic Control_, early access, 2024 [[pdf]](/assets/papers/10.1109_TAC.2024.3382610.pdf)
+_IEEE Transactions on Automatic Control_, vol. 69, no. 11, 2024 [[pdf]](/assets/papers/10.1109_TAC.2024.3382610.pdf)
 
 **Data-driven stability analysis of switched linear systems using adaptive sampling**\
 Alexis Vuille, Guillaume Berger, Raphaël Jungers\
