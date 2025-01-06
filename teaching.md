@@ -8,7 +8,8 @@ title = "Teaching"
 
 UCLouvain, Fall 2024\
 Master class\
-Co-thaught with Profs. Gianluca Bianchin and Raphaël Jungers
+Co-thaught with Profs. Gianluca Bianchin and Raphaël Jungers\
+[Syllabus Fall 2024](/linma2725/)
 
 ## LINFO1111 Calculus
 
