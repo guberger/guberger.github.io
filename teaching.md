@@ -2,7 +2,7 @@
 title = "Teaching"
 +++
 
-# Past and current taught class
+# Past and current taught classes
 
 ## LINMA2725 Stochastic Optimal Control and Reinforcement Learning
 
