@@ -4,6 +4,12 @@ title = "Publications"
 
 # Publications
 
+### 2025
+
+**Polyhedral control Lyapunov functions for switched affine systems.**\
+Sara Kamali, Guillaume Berger, Sriram Sankaranarayanan\
+_Hybrid Systems: Computation and Control (HSCC)_, 2025 [[pdf]](/assets/papers/Piecewise_Affine_CLF.pdf)
+
 ### 2024
 
 **Template-based piecewise affine regression**\

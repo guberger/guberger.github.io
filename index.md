@@ -41,11 +41,13 @@ He also mentored and co-supervised several Ph.D. students in those institutions.
 ## Contact
 
 ![](/assets/email.png)\
-My office is the A.113 in the Euler building\
+My office is the A.026 in the Euler building\
 Department of Applied Mathematics\
 Avenue Georges Lemaître 4-6/L4.05.01\
 1348 Louvain-la-Neuve, Brabant Wallon, Belgium
 
 ## News
+
+I will be at HSCC, Irvine, California, in May 2025.
 
 I will be at ADHS, Boulder, Colorado, in July 2024.
