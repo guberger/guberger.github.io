@@ -6,7 +6,11 @@ title = "Publications"
 
 ### 2025
 
-**Polyhedral control Lyapunov functions for switched affine systems.**\
+**PAC learnability of scenario decision-making algorithms: necessary conditions and sufficient conditions**\
+Guillaume Berger, Raphaël Jungers\
+_IEEE Control Systems Letters_, accepted, 2025 [[pdf]](/assets/papers/10.1109_LCSYS.2025.3568760.pdf)
+
+**Polyhedral control Lyapunov functions for switched affine systems**\
 Sara Kamali, Guillaume Berger, Sriram Sankaranarayanan\
 _Hybrid Systems: Computation and Control (HSCC)_, 2025 [[pdf]](/assets/papers/Piecewise_Affine_CLF.pdf)
 
