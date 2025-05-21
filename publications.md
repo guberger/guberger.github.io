@@ -12,7 +12,7 @@ _IEEE Control Systems Letters_, vol. 9, 2025 [[pdf]](/assets/papers/10.1109_LCSY
 
 **Polyhedral control Lyapunov functions for switched affine systems**\
 Sara Kamali, Guillaume Berger, Sriram Sankaranarayanan\
-_Hybrid Systems: Computation and Control (HSCC)_, 2025 [[pdf]](/assets/papers/Piecewise_Affine_CLF.pdf)
+_Hybrid Systems: Computation and Control (HSCC)_, 2025 [[pdf]](/assets/papers/10.1145_3716863.3718048.pdf)
 
 ### 2024
 
