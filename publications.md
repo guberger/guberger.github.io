@@ -7,7 +7,7 @@ title = "Publications"
 ### Preprints
 
 **A path-complete approach for optimal control of switched systems**\
-Léa Ninite, Adrien Banse, Guillaume Berger\
+Léa Ninite, Adrien Banse, Guillaume Berger, Raphaël Jungers\
 Submitted to _Hybrid Systems: Computation and Control (HSCC)_, November 2025 [[pdf]](/assets/papers/hscc-iccps26-paper143.pdf)
 
 **On the differentiability of the value function of switched linear systems under arbitrary and controlled switching**\
