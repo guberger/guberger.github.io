@@ -11,7 +11,7 @@ subtitle = "FNRS Postdoctoral Researcher at UCLouvain"
 
 Postdoctoral Researcher\
 Department of Applied Mathematics, UCLouvain\
-FNRS Postdoctoral Researcher
+FNRS Fellow
 
 ## About
 
@@ -47,6 +47,8 @@ Avenue Georges Lemaître 4-6/L4.05.01\
 1348 Louvain-la-Neuve, Brabant Wallon, Belgium
 
 ## News
+
+I will be at CDC, Rio de Janeiro, Brazil, in May 2025.
 
 I will be at HSCC, Irvine, California, in May 2025.
 

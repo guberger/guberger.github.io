@@ -4,7 +4,45 @@ title = "Publications"
 
 # Publications
 
+### Preprints
+
+**A path-complete approach for optimal control of switched systems**\
+Léa Ninite, Adrien Banse, Guillaume Berger\
+Submitted to _Hybrid Systems: Computation and Control (HSCC)_, November 2025 [[pdf]](/assets/papers/hscc-iccps26-paper143.pdf)
+
+**On the differentiability of the value function of switched linear systems under arbitrary and controlled switching**\
+Guillaume Berger\
+Submitted to _European Control Conference (ECC)_, November 2025 [[pdf]](/assets/papers/ECC_Differentiability_Switched_LQR.pdf)
+
+**The internal growth function: a more general PAC framework for scenario decision making**\
+Guillaume Berger, Raphaël Jungers\
+Submitted to _Transactions on Machine Learning Research_, September 2025 [[pdf]](/assets/papers/TMLR_Internal_Growth.pdf)
+
+**CC-VPSTO: Chance-Constrained Via-Point-based Stochastic Trajectory Optimisation for safe and efficient online robot motion planning**\
+Lara Brudermüller, Guillaume Berger, Julius Jankowski, Raunak Bhattacharyya, Raphaël Jungers, Nick Hawes\
+Submitted to _International Journal of Robotics Research_, August 2025 [[pdf]](/assets/papers/IJRR_ccvpsto.pdf)
+
+**Improved compression bounds for scenario decision making**
+Guillaume Berger\
+Submitted to _IEEE Transactions on Automatic Control_, July 2025 [[pdf]](/assets/papers/TAC_Compression.pdf)
+
+**Synthesizing min-max control barrier functions for switched affine systems**\
+Sara Kamali, Guillaume Berger, Sriram Sankaranarayanan\
+Submitted to _Automatica_, June 2025 [[pdf]](/assets/papers/Automatica_CBF_Affine_terms.pdf)
+
 ### 2025
+
+**Controlled supermartingale functions for stochastic differential equations: inference and applications**\
+Masoumeh Ghanbarpour, Guillaume Berger, Sriram Sankaranarayanan\
+_Conference on Decision and Control (CDC)_, 2025 [[pdf]](/assets/papers/CDC25_1476_FI.pdf)
+
+**A stochastic-optimization-based adaptive-sampling scheme for data-driven stability analysis of switched linear systems**\
+Alexis Vuille, Guillaume Berger, Raphaël Jungers\
+_Conference on Decision and Control (CDC)_, 2025 [[pdf]](/assets/papers/CDC25_0578_FI.pdf)
+
+**Online complexity estimation for repetitive scenario design**\
+Guillaume Berger, Raphaël Jungers\
+_Conference on Decision and Control (CDC)_, 2025 [[pdf]](/assets/papers/CDC25_0766_FI.pdf)
 
 **PAC learnability of scenario decision-making algorithms: necessary conditions and sufficient conditions**\
 Guillaume Berger, Raphaël Jungers\
