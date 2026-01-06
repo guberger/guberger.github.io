@@ -22,7 +22,7 @@ Submitted to _Transactions on Machine Learning Research_, September 2025 [[pdf]]
 Lara Brudermüller, Guillaume Berger, Julius Jankowski, Raunak Bhattacharyya, Raphaël Jungers, Nick Hawes\
 Submitted to _International Journal of Robotics Research_, August 2025 [[pdf]](/assets/papers/IJRR_ccvpsto.pdf)
 
-**Improved compression bounds for scenario decision making**
+**Improved compression bounds for scenario decision making**\
 Guillaume Berger\
 Submitted to _IEEE Transactions on Automatic Control_, July 2025 [[pdf]](/assets/papers/TAC_Compression.pdf)
 
