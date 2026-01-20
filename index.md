@@ -23,7 +23,7 @@ FNRS Fellow
 
 Guillaume Berger is a Postdoctoral Researcher at [UCLouvain](https://uclouvain.be/en/index.html) in the team of [Raphaël Jungers](https://perso.uclouvain.be/raphael.jungers/content/home), since 2023.
 He is funded by an [FNRS](https://www.frs-fnrs.be/en/) Postdoctoral Researcher fellowship.
-Previously, he was a Postdoctoral Researcher at the [University of Colorado Boulder](https://www.colorado.edu/) in the team of [Sriram Sankaranarayanan](https://home.cs.colorado.edu/~srirams/), funded partly by a [BAEF](https://baef.be/) fellowship, and a [WBI](https://www.wbi.be/) research grant.
+Previously, he was a Postdoctoral Researcher at the [University of Colorado Boulder](https://www.colorado.edu/) in the team of [Sriram Sankaranarayanan](https://home.cs.colorado.edu/~srirams/).
 He obtained his Ph.D. in the study of Cyber-Physical Systems from UCLouvain, supervised by Raphaël Jungers, in 2021.
 He obtained his Master Degree in Mathematical Engineering from UCLouvain in 2017.
 
@@ -48,7 +48,7 @@ Avenue Georges Lemaître 4-6/L4.05.01\
 
 ## News
 
-I will be at CDC, Rio de Janeiro, Brazil, in May 2025.
+I will be at CDC, Rio de Janeiro, Brazil, in December 2025.
 
 I will be at HSCC, Irvine, California, in May 2025.
 
