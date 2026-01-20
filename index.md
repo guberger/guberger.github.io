@@ -28,10 +28,10 @@ He obtained his Ph.D. in the study of Cyber-Physical Systems from UCLouvain, sup
 He obtained his Master Degree in Mathematical Engineering from UCLouvain in 2017.
 
 His area of research is the analysis, control, and optimization of complex systems, like cyber-physical systems and hybrid systems.
-He is particularly interested in formal verification and data-driven analysis of these systems, using tools from Optimization, Computer Science and Machine Learning.
+He is particularly interested in formal verification and data-driven analysis of these systems, using tools from Optimization, Computer Science, and Machine Learning.
 
-He thaught several undergraduate, master and graduate level courses at the University of Colorado Boulder and at UCLouvain.
-He also mentored and co-supervised several Ph.D. students in those institutions.
+He thaught several undergraduate, master, and graduate level courses at the University of Colorado Boulder, at UCLouvain, and at UNamur.
+He also mentored and co-supervised several Ph.D. students.
 ~~~
 </div>
 ~~~
