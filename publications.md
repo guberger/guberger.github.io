@@ -14,10 +14,6 @@ Submitted to _Hybrid Systems: Computation and Control (HSCC)_, November 2025 [[p
 Guillaume Berger\
 Submitted to _European Control Conference (ECC)_, November 2025 [[pdf]](/assets/papers/ECC_Differentiability_Switched_LQR.pdf)
 
-**The internal growth function: a more general PAC framework for scenario decision making**\
-Guillaume Berger, Raphaël Jungers\
-Submitted to _Transactions on Machine Learning Research_, September 2025 [[pdf]](/assets/papers/TMLR_Internal_Growth.pdf)
-
 **CC-VPSTO: Chance-Constrained Via-Point-based Stochastic Trajectory Optimisation for safe and efficient online robot motion planning**\
 Lara Brudermüller, Guillaume Berger, Julius Jankowski, Raunak Bhattacharyya, Raphaël Jungers, Nick Hawes\
 Submitted to _International Journal of Robotics Research_, August 2025 [[pdf]](/assets/papers/IJRR_ccvpsto.pdf)
@@ -29,6 +25,12 @@ Submitted to _IEEE Transactions on Automatic Control_, July 2025 [[pdf]](/assets
 **Synthesizing min-max control barrier functions for switched affine systems**\
 Sara Kamali, Guillaume Berger, Sriram Sankaranarayanan\
 Submitted to _Automatica_, June 2025 [[pdf]](/assets/papers/Automatica_CBF_Affine_terms.pdf)
+
+### 2026
+
+**The internal growth function: a more general PAC framework for scenario decision making**\
+Guillaume Berger, Raphaël Jungers\
+To appear in _Transactions on Machine Learning Research_, January 2026 [[pdf]](/assets/papers/TMLR_Internal_Growth.pdf)
 
 ### 2025
 

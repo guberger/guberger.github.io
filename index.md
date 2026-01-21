@@ -9,9 +9,8 @@ subtitle = "FNRS Postdoctoral Researcher at UCLouvain"
 # Guillaume Berger
 @@
 
-Postdoctoral Researcher\
+Postdoctoral Researcher, FNRS Fellow\
 Department of Applied Mathematics, UCLouvain\
-FNRS Fellow
 
 ## About
 

@@ -2,7 +2,7 @@
 title = "LINMA2222 SOC and RL Fall 2025"
 +++
 
-# LINMA2222 Stochastic Optimal Control and Reinforcement Learning Fall 2025
+# LINMA2222 Stochastic optimal control and reinforcement learning, Fall 2025
 
 ## Main themes
 

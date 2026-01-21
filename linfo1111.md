@@ -2,7 +2,7 @@
 title = "LINFO 1111 Calculus Fall 2023"
 +++
 
-# LINFO 1111 Calculus Fall 2023
+# LINFO1111 Calculus, Fall 2023
 
 ## Main themes
 
@@ -11,7 +11,7 @@ The course focuses on
 * careful handling of these tools and techniques in the framework of applications.
 For most concepts, applications are selected from the other courses of the computer science program (e.g., economy).
  
-### Sets and Numbers
+### Sets and numbers
 
 * Sets (intersection, union, difference)
 * Order and equivalence
