@@ -36,15 +36,15 @@ To appear in _Transactions on Machine Learning Research_, January 2026 [[pdf]](/
 
 **Controlled supermartingale functions for stochastic differential equations: inference and applications**\
 Masoumeh Ghanbarpour, Guillaume Berger, Sriram Sankaranarayanan\
-_Conference on Decision and Control (CDC)_, 2025 [[pdf]](/assets/papers/CDC25_1476_FI.pdf)
+_Conference on Decision and Control (CDC)_, 2025 [[pdf]](/assets/papers/10.1109_CDC57313.2025.11312371.pdf)
 
 **A stochastic-optimization-based adaptive-sampling scheme for data-driven stability analysis of switched linear systems**\
 Alexis Vuille, Guillaume Berger, Raphaël Jungers\
-_Conference on Decision and Control (CDC)_, 2025 [[pdf]](/assets/papers/CDC25_0578_FI.pdf)
+_Conference on Decision and Control (CDC)_, 2025 [[pdf]](/assets/papers/10.1109_CDC57313.2025.11312099.pdf)
 
 **Online complexity estimation for repetitive scenario design**\
 Guillaume Berger, Raphaël Jungers\
-_Conference on Decision and Control (CDC)_, 2025 [[pdf]](/assets/papers/CDC25_0766_FI.pdf)
+_Conference on Decision and Control (CDC)_, 2025 [[pdf]](/assets/papers/10.1109_CDC57313.2025.11312326.pdf)
 
 **PAC learnability of scenario decision-making algorithms: necessary conditions and sufficient conditions**\
 Guillaume Berger, Raphaël Jungers\
