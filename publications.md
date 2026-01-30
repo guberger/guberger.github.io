@@ -6,10 +6,6 @@ title = "Publications"
 
 ### Preprints
 
-**A path-complete approach for optimal control of switched systems**\
-Léa Ninite, Adrien Banse, Guillaume Berger, Raphaël Jungers\
-Submitted to _Hybrid Systems: Computation and Control (HSCC)_, November 2025 [[pdf]](/assets/papers/hscc-iccps26-paper143.pdf)
-
 **On the differentiability of the value function of switched linear systems under arbitrary and controlled switching**\
 Guillaume Berger\
 Submitted to _European Control Conference (ECC)_, November 2025 [[pdf]](/assets/papers/ECC_Differentiability_Switched_LQR.pdf)
@@ -27,6 +23,10 @@ Sara Kamali, Guillaume Berger, Sriram Sankaranarayanan\
 Submitted to _Automatica_, June 2025 [[pdf]](/assets/papers/Automatica_CBF_Affine_terms.pdf)
 
 ### 2026
+
+**A path-complete approach for optimal control of switched systems**\
+Léa Ninite, Adrien Banse, Guillaume Berger, Raphaël Jungers\
+To appear in _Hybrid Systems: Computation and Control (HSCC)_, January 2026 [[pdf]](/assets/papers/hscc-iccps26-paper143.pdf)
 
 **The internal growth function: a more general PAC framework for scenario decision making**\
 Guillaume Berger, Raphaël Jungers\
