@@ -6,10 +6,6 @@ title = "Publications"
 
 ### Preprints
 
-**On the differentiability of the value function of switched linear systems under arbitrary and controlled switching**\
-Guillaume Berger\
-Submitted to _European Control Conference (ECC)_, November 2025 [[pdf]](/assets/papers/ECC_Differentiability_Switched_LQR.pdf)
-
 **CC-VPSTO: Chance-Constrained Via-Point-based Stochastic Trajectory Optimisation for safe and efficient online robot motion planning**\
 Lara Brudermüller, Guillaume Berger, Julius Jankowski, Raunak Bhattacharyya, Raphaël Jungers, Nick Hawes\
 Submitted to _International Journal of Robotics Research_, August 2025 [[pdf]](/assets/papers/IJRR_ccvpsto.pdf)
@@ -23,6 +19,10 @@ Sara Kamali, Guillaume Berger, Sriram Sankaranarayanan\
 Submitted to _Automatica_, June 2025 [[pdf]](/assets/papers/Automatica_CBF_Affine_terms.pdf)
 
 ### 2026
+
+**On the differentiability of the value function of switched linear systems under arbitrary and controlled switching**\
+Guillaume Berger\
+To appear in _European Control Conference (ECC)_, March 2026 [[pdf]](/assets/papers/ECC_Differentiability_Switched_LQR.pdf)
 
 **A path-complete approach for optimal control of switched systems**\
 Léa Ninite, Adrien Banse, Guillaume Berger, Raphaël Jungers\
