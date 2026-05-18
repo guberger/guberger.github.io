@@ -47,6 +47,7 @@ Avenue Georges Lemaître 4-6/L4.05.01\
 
 ## News
 
+* I will be at ECC, Reykjavik, Iceland, in July 2026.
+* I will be at HSCC, Saint-Malo, France, in May 2026.
 * I will be at CDC, Rio de Janeiro, Brazil, in December 2025.
 * I will be at HSCC, Irvine, California, in May 2025.
-* I will be at ADHS, Boulder, Colorado, in July 2024.

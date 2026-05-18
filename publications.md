@@ -30,7 +30,7 @@ To appear in _Hybrid Systems: Computation and Control (HSCC)_, January 2026 [[pd
 
 **The internal growth function: a more general PAC framework for scenario decision making**\
 Guillaume Berger, Raphaël Jungers\
-To appear in _Transactions on Machine Learning Research_, January 2026 [[pdf]](/assets/papers/TMLR_Internal_Growth.pdf)
+_Transactions on Machine Learning Research_, February 2026 [[pdf]](/assets/papers/5994_The_Internal_Growth_Funct.pdf)
 
 ### 2025
 
