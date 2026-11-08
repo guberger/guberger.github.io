@@ -36,15 +36,31 @@ jobs:
         id: pages
         uses: actions/configure-pages@v6
 
-      - name: Install Hugo
+      - name: Restore Hugo binary
+        id: hugo-cache
+        uses: actions/cache@v6
+        with:
+          path: ${{ runner.temp }}/hugo
+          key: ${{ runner.os }}-${{ runner.arch }}-hugo-${{ env.HUGO_VERSION }}-go1.27.3-standard-v1
+
+      - name: Set up Go
+        if: steps.hugo-cache.outputs.cache-hit != 'true'
+        uses: actions/setup-go@v7
+        with:
+          go-version: '1.27.3'
+          cache: false
+
+      # Avoid the release-archive endpoint that repeatedly returned HTTP 504.
+      - name: Build Hugo from source
+        if: steps.hugo-cache.outputs.cache-hit != 'true'
+        env:
+          CGO_ENABLED: '0'
+          GOPROXY: https://proxy.golang.org
+          GOBIN: ${{ runner.temp }}/hugo
+        run: go install "github.com/gohugoio/hugo@v${HUGO_VERSION}"
+
+      - name: Add Hugo to PATH
         run: |
-          curl --fail --silent --show-error --location \
-            --retry 5 --retry-max-time 300 \
-            --connect-timeout 30 --max-time 120 \
-            --output "${RUNNER_TEMP}/hugo.tar.gz" \
-            "https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_${HUGO_VERSION}_linux-amd64.tar.gz"
-          mkdir -p "${RUNNER_TEMP}/hugo"
-          tar -xzf "${RUNNER_TEMP}/hugo.tar.gz" -C "${RUNNER_TEMP}/hugo"
           echo "${RUNNER_TEMP}/hugo" >> "${GITHUB_PATH}"
 
       - name: Build site
