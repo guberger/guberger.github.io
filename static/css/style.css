@@ -317,6 +317,71 @@ h5 a:visited { color: #1c1c1c !important; }
   margin-bottom: 1.5rem;
 }
 
+.cv-degree {
+  font-size: 1.25rem;
+  font-weight: 700;
+}
+
+.cv-entry {
+  padding: 1.1rem 1.25rem;
+  margin-bottom: 1rem;
+  background: #f5f8fc;
+  border: 1px solid #dbe4ef;
+  border-left: 4px solid #285a87;
+  border-radius: 6px;
+}
+
+.cv-entry h3 {
+  font-size: 1.2rem;
+  font-weight: 700;
+  color: #234f76;
+  margin-bottom: 0.5rem;
+}
+
+.cv-entry-date {
+  font-weight: 600;
+  color: #526170;
+}
+
+.cv-entry p {
+  margin-bottom: 0.5rem;
+}
+
+.cv-entry p:last-child {
+  margin-bottom: 0;
+}
+
+.scholar-metrics {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(8rem, 1fr));
+  gap: 1rem;
+  margin: 1rem 0;
+}
+
+.scholar-metrics > div {
+  padding: 1rem;
+  background: #f5f8fc;
+  border: 1px solid #dbe4ef;
+  border-radius: 6px;
+  text-align: center;
+}
+
+.scholar-metrics dt {
+  font-size: 0.9rem;
+  color: #526170;
+}
+
+.scholar-metrics dd {
+  margin: 0.25rem 0 0;
+  font-size: 1.8rem;
+  font-weight: 700;
+  color: #234f76;
+}
+
+.scholar-metrics-source {
+  font-size: 0.85rem;
+}
+
 .home-affiliation p {
   margin-bottom: 0;
 }

@@ -19,6 +19,12 @@ and title follow the corresponding entry in `content/publications.md`.
 
 ## Deployment
 
+The CV's Google Scholar metrics are saved in `data/scholar.json`. The deployment
+workflow refreshes them on each build and runs weekly on Monday at 06:17 UTC.
+If Scholar is unavailable or blocks the request, the build retains the checked-in
+snapshot and its retrieval date. Run `python scripts/update_scholar.py` to refresh
+the local snapshot; commit updated data to advance the fallback figures.
+
 In GitHub repository Settings > Pages, set Source to **GitHub Actions**.
 The workflow in `.github/workflows/Deploy.yml` builds Hugo and deploys `public/`
 on pushes to `main` or `master`. It can also be started manually from the

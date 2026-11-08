@@ -1,0 +1,8 @@
+{{ with hugo.Data.scholar }}
+<dl class="scholar-metrics">
+  <div><dt>Citations</dt><dd>{{ .citations }}</dd></div>
+  <div><dt>h-index</dt><dd>{{ .h_index }}</dd></div>
+  <div><dt>i10-index</dt><dd>{{ .i10_index }}</dd></div>
+</dl>
+<p class="scholar-metrics-source">All-time metrics from <a href="{{ .profile_url }}">Google Scholar</a>. Retrieved {{ .retrieved_at }}.</p>
+{{ end }}

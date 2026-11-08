@@ -6,6 +6,8 @@ on:
       - main
       - master
   workflow_dispatch:
+  schedule:
+    - cron: '17 6 * * 1'
 
 permissions:
   contents: read
@@ -44,6 +46,9 @@ jobs:
           mkdir -p "${RUNNER_TEMP}/hugo"
           tar -xzf "${RUNNER_TEMP}/hugo.tar.gz" -C "${RUNNER_TEMP}/hugo"
           echo "${RUNNER_TEMP}/hugo" >> "${GITHUB_PATH}"
+
+      - name: Refresh Google Scholar metrics
+        run: python3 scripts/update_scholar.py
 
       - name: Build site
         env:
