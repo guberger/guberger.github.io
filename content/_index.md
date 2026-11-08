@@ -1,7 +1,7 @@
 +++
 title = "Guillaume Berger"
 [params]
-subtitle = "FNRS Postdoctoral Researcher at UCLouvain"
+subtitle = "At Octave.energy · Former FNRS Postdoctoral Researcher at UCLouvain"
 +++
 
 
@@ -11,42 +11,44 @@ subtitle = "FNRS Postdoctoral Researcher at UCLouvain"
 
 </div>
 
-Postdoctoral Researcher, FNRS Fellow\
-Department of Applied Mathematics, UCLouvain
+<div class="home-affiliation">
+  <div class="home-affiliation-logos">
+    <a href="https://octave.energy/" aria-label="Visit Octave.energy"><img src="/assets/octave-energy-logo.svg" alt="Octave.energy logo" width="204" height="68"></a>
+    <a href="https://uclouvain.be/en"><img src="/assets/uclouvain-logo.svg" alt="UCLouvain" width="180" height="52"></a>
+    <a href="https://www.frs-fnrs.be/en"><img src="/assets/fnrs-logo.svg" alt="FNRS" width="82" height="52"></a>
+  </div>
+
+**Data Scientist at [Octave.energy](https://octave.energy/)**\
+Former FNRS Postdoctoral Researcher at UCLouvain
+
+</div>
 
 ## About
 
 <!-- raw html to allow a responsive row  -->
 
 <div class="clearfix">
-    <img class="right rounded" style="margin-left: 15px; width: 150px;" src="/assets/myprofile.jpg">
+    <img class="right rounded" style="margin-left: 15px; width: 150px;" src="/assets/myprofile.jpg" alt="Portrait of Guillaume Berger">
 
-Guillaume Berger is a postdoctoral researcher at [UCLouvain](https://uclouvain.be/en/index.html) in the team of [Raphaël Jungers](https://perso.uclouvain.be/raphael.jungers/content/home), since 2023.
-He is funded by an [FNRS](https://www.frs-fnrs.be/en/) postdoctoral research fellowship.
-Previously, he was a postdoctoral researcher at the [University of Colorado Boulder](https://www.colorado.edu/) in the team of [Sriram Sankaranarayanan](https://home.cs.colorado.edu/~srirams/).
-He obtained his Ph.D. in the study of cyber-physical systems from UCLouvain, supervised by Raphaël Jungers, in 2021.
-He obtained his master degree in mathematical engineering from UCLouvain in 2017.
+I work at [Octave.energy](https://octave.energy/), with a background in the analysis, control, and optimization of cyber-physical systems.
+Previously, I was an [FNRS](https://www.frs-fnrs.be/en/) postdoctoral fellow at [UCLouvain](https://uclouvain.be/en/index.html) in the team of [Raphaël Jungers](https://perso.uclouvain.be/raphael.jungers/content/home), and a postdoctoral researcher at the [University of Colorado Boulder](https://www.colorado.edu/) in the team of [Sriram Sankaranarayanan](https://home.cs.colorado.edu/~srirams/).
 
-His area of research is the analysis, control, and optimization of complex systems, like cyber-physical systems and hybrid systems.
-He is particularly interested in formal verification and data-driven analysis of these systems, using tools from optimization, computer science, and machine learning.
+My research focuses on formal verification and data-driven analysis and control of complex systems, particularly cyber-physical and hybrid systems.
+I combine tools from optimization, computer science, and machine learning to study safety and correctness guarantees.
 
-He thaught several undergraduate, master, and graduate level courses at the University of Colorado Boulder, at UCLouvain, and at UNamur.
-He also mentored and co-supervised several Ph.D. students.
+I have taught undergraduate, master’s, and graduate courses at the University of Colorado Boulder, UCLouvain, and UNamur, and have mentored and co-supervised Ph.D. students.
+
+I received my Ph.D. in cyber-physical systems from UCLouvain in 2021, supervised by Raphaël Jungers, and my master’s degree in mathematical engineering from UCLouvain in 2017.
 
 </div>
 
 
 ## Contact
 
-![](/assets/email.png)\
-My office is the A.026 in the Euler building\
-Department of Applied Mathematics\
-Avenue Georges Lemaître 4-6/L4.05.01\
-1348 Louvain-la-Neuve, Brabant Wallon, Belgium
+* **Octave.energy:** [guillaume.berger@octave.energy](mailto:guillaume.berger@octave.energy)
+* **UCLouvain:** [guillaume.berger@uclouvain.be](mailto:guillaume.berger@uclouvain.be)
 
 ## News
 
-* I will be at ECC, Reykjavik, Iceland, in July 2026.
-* I will be at HSCC, Saint-Malo, France, in May 2026.
-* I will be at CDC, Rio de Janeiro, Brazil, in December 2025.
-* I will be at HSCC, Irvine, California, in May 2025.
+* **November 2026:** I have joined [Octave.energy](https://octave.energy/), following my FNRS postdoctoral fellowship at UCLouvain.
+* **Fall 2026:** I am co-teaching [Stochastic optimal control and reinforcement learning (LINMA2222)](/linma2222/) at UCLouvain.

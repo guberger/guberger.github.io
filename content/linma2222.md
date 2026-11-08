@@ -1,8 +1,8 @@
 +++
-title = "LINMA2222 SOC and RL Fall 2025"
+title = "LINMA2222 SOC and RL Fall 2026"
 +++
 
-# LINMA2222 Stochastic optimal control and reinforcement learning, Fall 2025
+# LINMA2222 Stochastic optimal control and reinforcement learning, Fall 2026
 
 ## Main themes
 
@@ -23,4 +23,4 @@ title = "LINMA2222 SOC and RL Fall 2025"
 
 ## Other resources
 
-* [Slides of Part 4](/assets/linma2222/slides.pdf)
+* [Slides of Part 3](/assets/linma2222/slides.pdf)

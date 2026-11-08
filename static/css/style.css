@@ -312,3 +312,112 @@ h5 a:visited { color: #1c1c1c !important; }
 .franklin-content .squeeze h1 {
   margin-bottom: 0em;
 }
+
+.home-affiliation {
+  margin-bottom: 1.5rem;
+}
+
+.home-affiliation img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+.home-affiliation p {
+  margin-bottom: 0;
+}
+
+.home-affiliation-logos {
+  display: flex;
+  align-items: center;
+  gap: clamp(0.5rem, 3vw, 1.5rem);
+  margin-bottom: 1rem;
+  overflow-x: auto;
+}
+
+.home-affiliation-logos a {
+  flex-shrink: 0;
+}
+
+.home-affiliation-logos img {
+  width: auto;
+  height: 50px;
+  max-width: none;
+}
+
+.home-affiliation-logos img[src$="uclouvain-logo.svg"] {
+  height: 40px;
+}
+
+/* Research and teaching tables. */
+.projects-table-wrapper,
+.teaching-table-wrapper {
+  overflow-x: auto;
+  margin-top: 1.5rem;
+}
+
+.projects-table,
+.teaching-table {
+  width: 100%;
+  min-width: 34rem;
+  border-collapse: collapse;
+  text-align: left;
+}
+
+.projects-table th,
+.projects-table td,
+.teaching-table th,
+.teaching-table td {
+  padding: 1rem;
+  border-bottom: 1px solid var(--bs-border-color, #dee2e6);
+  vertical-align: top;
+}
+
+.projects-table th,
+.teaching-table th {
+  background: var(--bs-tertiary-bg, #f8f9fa);
+}
+
+.projects-table td:first-child {
+  width: 42%;
+}
+
+.projects-table h2,
+.teaching-table h2 {
+  font-size: 1.1rem;
+  margin-bottom: 0.75rem;
+}
+
+.projects-table p {
+  margin-bottom: 0;
+}
+
+.teaching-table td:first-child {
+  width: 36%;
+}
+
+.teaching-table td:nth-child(2) {
+  width: 25%;
+}
+
+.teaching-table p {
+  margin-bottom: 0.75rem;
+}
+
+.teaching-table p:last-child {
+  margin-bottom: 0;
+}
+
+.projects-table ul {
+  padding-left: 1.1rem;
+  margin-bottom: 0;
+}
+
+.projects-table li + li {
+  margin-top: 1rem;
+}
+
+.project-reference-venue {
+  font-size: 0.85em;
+  color: var(--bs-secondary-color, #6c757d);
+}
