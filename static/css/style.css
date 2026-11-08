@@ -317,22 +317,17 @@ h5 a:visited { color: #1c1c1c !important; }
   margin-bottom: 1.5rem;
 }
 
-.home-affiliation img {
-  display: block;
-  max-width: 100%;
-  height: auto;
-}
-
 .home-affiliation p {
   margin-bottom: 0;
 }
 
 .home-affiliation-logos {
   display: flex;
+  flex-wrap: wrap;
   align-items: center;
-  gap: clamp(0.5rem, 3vw, 1.5rem);
-  margin-bottom: 1rem;
-  overflow-x: auto;
+  justify-content: space-evenly;
+  gap: 1.5rem;
+  margin-top: 3rem;
 }
 
 .home-affiliation-logos a {
@@ -340,13 +335,10 @@ h5 a:visited { color: #1c1c1c !important; }
 }
 
 .home-affiliation-logos img {
+  display: block;
   width: auto;
   height: 50px;
   max-width: none;
-}
-
-.home-affiliation-logos img[src$="uclouvain-logo.svg"] {
-  height: 40px;
 }
 
 /* Research and teaching tables. */
