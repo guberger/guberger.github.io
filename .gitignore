@@ -6,3 +6,4 @@ package-lock.json
 /public/
 /resources/_gen/
 /.hugo_build.lock
+/_changes/

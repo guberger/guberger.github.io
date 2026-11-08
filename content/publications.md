@@ -6,31 +6,47 @@ title = "Publications"
 
 ### Preprints
 
-**Improved compression bounds for scenario decision making**\
-Guillaume Berger\
-Working paper, July 2025 [[pdf]](/assets/papers/2025-improved-compression-bounds-for-scenario-decision-making.pdf)
+**Scenario-Based Conformal Prediction with Exact Conditional Coverage Guarantees**\
+Guillaume O. Berger, Raphaël M. Jungers, Licio Romao\
+Working paper, November 2026 [[pdf]](/assets/papers/2026-scenario-based-conformal-prediction-with-exact-conditional-coverage-guarantees.pdf)
+
+**Direct vs. Indirect Data-Driven Control: Case-study of Switching Systems Stability**\
+Alexis Vuille, Guillaume O. Berger, Raphaël M. Jungers\
+Submitted to _Automatica_, August 2026 [[arXiv]](https://arxiv.org/abs/2608.20207)
+
+**Robust Optimal Control of Arbitrarily Switched Systems: A Path-Complete Framework**\
+Léa Ninite, Adrien Banse, Guillaume O. Berger, Raphaël M. Jungers\
+Submitted to _Automatica_, July 2026 [[arXiv]](https://arxiv.org/abs/2607.15055)
 
 **Synthesizing min-max control barrier functions for switched affine systems**\
 Sara Kamali, Guillaume Berger, Sriram Sankaranarayanan\
-Submitted to _Automatica_, June 2025 [[pdf]](/assets/papers/2025-synthesizing-min-max-control-barrier-functions-for-switched-affine-systems.pdf)
+Submitted to _Automatica_, June 2025 [[arXiv]](https://arxiv.org/abs/2506.10296)
+
+**Improved compression bounds for scenario decision making**\
+Guillaume Berger\
+_arXiv preprint_, January 2025 [[arXiv]](https://arxiv.org/abs/2501.08884)
 
 ### 2026
 
+**Data-driven Koopman mode approximation: A neural power iteration algorithm**\
+Guillaume O. Berger, Raphaël M. Jungers\
+To appear in _Conference on Decision and Control (CDC)_, 2026 [[pdf]](/assets/papers/2026-data-driven-koopman-mode-approximation-a-neural-power-iteration-algorithm.pdf)
+
 **CC-VPSTO: Chance-Constrained Via-Point-Based Stochastic Trajectory Optimisation for Online Robot Motion Planning Under Uncertainty**\
 Lara Brudermüller, Guillaume O. Berger, Julius Jankowski, Raunak Bhattacharyya, Sylvain Calinon, Raphaël M. Jungers, Nick Hawes\
-_The International Journal of Robotics Research_, July 2026 [[doi]](https://doi.org/10.1177/02783649261464639) [[pdf]](/assets/papers/2025-cc-vpsto-chance-constrained-via-point-based-stochastic-trajectory-optimisation-for-safe-and-efficient-online-robot-motion-planning.pdf)
+_The International Journal of Robotics Research_, 2026 [[pdf]](/assets/papers/2025-cc-vpsto-chance-constrained-via-point-based-stochastic-trajectory-optimisation-for-safe-and-efficient-online-robot-motion-planning.pdf)
 
 **On the differentiability of the value function of switched linear systems under arbitrary and controlled switching**\
 Guillaume Berger\
-_European Control Conference (ECC)_, March 2026 [[pdf]](/assets/papers/2026-on-the-differentiability-of-the-value-function-of-switched-linear-systems-under-arbitrary-and-controlled-switching.pdf)
+_European Control Conference (ECC)_, 2026 [[pdf]](/assets/papers/2026-on-the-differentiability-of-the-value-function-of-switched-linear-systems-under-arbitrary-and-controlled-switching.pdf)
 
 **A path-complete approach for optimal control of switched systems**\
 Léa Ninite, Adrien Banse, Guillaume Berger, Raphaël Jungers\
-To appear in _Hybrid Systems: Computation and Control (HSCC)_, January 2026 [[pdf]](/assets/papers/2026-a-path-complete-approach-for-optimal-control-of-switched-systems.pdf)
+To appear in _Hybrid Systems: Computation and Control (HSCC)_, 2026 [[pdf]](/assets/papers/2026-a-path-complete-approach-for-optimal-control-of-switched-systems.pdf)
 
 **The internal growth function: a more general PAC framework for scenario decision making**\
 Guillaume Berger, Raphaël Jungers\
-_Transactions on Machine Learning Research_, February 2026 [[pdf]](/assets/papers/2026-the-internal-growth-function-a-more-general-pac-framework-for-scenario-decision-making.pdf)
+_Transactions on Machine Learning Research_, 2026 [[pdf]](/assets/papers/2026-the-internal-growth-function-a-more-general-pac-framework-for-scenario-decision-making.pdf)
 
 ### 2025
 
