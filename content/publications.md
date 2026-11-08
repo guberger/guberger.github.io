@@ -6,10 +6,6 @@ title = "Publications"
 
 ### Preprints
 
-**CC-VPSTO: Chance-Constrained Via-Point-based Stochastic Trajectory Optimisation for safe and efficient online robot motion planning**\
-Lara Brudermüller, Guillaume Berger, Julius Jankowski, Raunak Bhattacharyya, Raphaël Jungers, Nick Hawes\
-Submitted to _International Journal of Robotics Research_, August 2025 [[pdf]](/assets/papers/2025-cc-vpsto-chance-constrained-via-point-based-stochastic-trajectory-optimisation-for-safe-and-efficient-online-robot-motion-planning.pdf)
-
 **Improved compression bounds for scenario decision making**\
 Guillaume Berger\
 Working paper, July 2025 [[pdf]](/assets/papers/2025-improved-compression-bounds-for-scenario-decision-making.pdf)
@@ -20,9 +16,13 @@ Submitted to _Automatica_, June 2025 [[pdf]](/assets/papers/2025-synthesizing-mi
 
 ### 2026
 
+**CC-VPSTO: Chance-Constrained Via-Point-Based Stochastic Trajectory Optimisation for Online Robot Motion Planning Under Uncertainty**\
+Lara Brudermüller, Guillaume O. Berger, Julius Jankowski, Raunak Bhattacharyya, Sylvain Calinon, Raphaël M. Jungers, Nick Hawes\
+_The International Journal of Robotics Research_, July 2026 [[doi]](https://doi.org/10.1177/02783649261464639) [[pdf]](/assets/papers/2025-cc-vpsto-chance-constrained-via-point-based-stochastic-trajectory-optimisation-for-safe-and-efficient-online-robot-motion-planning.pdf)
+
 **On the differentiability of the value function of switched linear systems under arbitrary and controlled switching**\
 Guillaume Berger\
-To appear in _European Control Conference (ECC)_, March 2026 [[pdf]](/assets/papers/2026-on-the-differentiability-of-the-value-function-of-switched-linear-systems-under-arbitrary-and-controlled-switching.pdf)
+_European Control Conference (ECC)_, March 2026 [[pdf]](/assets/papers/2026-on-the-differentiability-of-the-value-function-of-switched-linear-systems-under-arbitrary-and-controlled-switching.pdf)
 
 **A path-complete approach for optimal control of switched systems**\
 Léa Ninite, Adrien Banse, Guillaume Berger, Raphaël Jungers\
