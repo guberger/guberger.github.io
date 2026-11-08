@@ -2,3 +2,8 @@ __site/
 .DS_Store
 node_modules/
 package-lock.json
+
+# Hugo generated output
+/public/
+/resources/_gen/
+/.hugo_build.lock
