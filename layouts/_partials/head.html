@@ -1,0 +1,7 @@
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ .Title }}</title>
+{{ partial "style.html" . }}
+{{ if .Param "math" }}
+<link rel="stylesheet" href="/libs/katex/katex.min.css">
+{{ end }}

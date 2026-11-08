@@ -1,0 +1,19 @@
+baseURL = 'https://guberger.github.io/'
+locale = 'en'
+title = 'Guillaume Berger'
+disableKinds = ['taxonomy', 'term']
+
+[params]
+  author = 'Guillaume Berger'
+  math = true
+
+# Content contains trusted HTML for the profile and publication alerts.
+[markup.goldmark.renderer]
+  unsafe = true
+
+# Preserve LaTeX for the KaTeX renderer, including existing $p$ expressions.
+[markup.goldmark.extensions.passthrough]
+  enable = true
+  [markup.goldmark.extensions.passthrough.delimiters]
+    block = [['\[', '\]'], ['$$', '$$']]
+    inline = [['\(', '\)'], ['$', '$']]

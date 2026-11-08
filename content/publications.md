@@ -141,11 +141,10 @@ _Conference on Analysis and Design of Hybrid Systems (ADHS)_, 2021 [[pdf]](/asse
 **Chance-constrained quasi-convex optimization with application to data-driven switched systems control**\
 Guillaume Berger, Raphaël Jungers, Zheming Wang\
 _Learning for Dynamics & Control Conference (L4DC)_, 2021 [[pdf]](/assets/papers/proceedings.mlr.press_v144_berger21a.pdf)
-~~~
+
 <div class="alert alert-success" role="alert">
   In the 14 out of 138 submissions accepted for oral presentation.
 </div>
-~~~
 
 **Dominated splitting and quantization of hybrid systems**\
 Guillaume Berger\
@@ -164,11 +163,10 @@ _IEEE Control Systems Letters_, vol. 4, no. 1, 2020 [[pdf]](/assets/papers/10.11
 **Worst-case topological entropy and minimal data rate for state observation of switched linear systems**\
 Guillaume Berger, Raphaël Jungers\
 _Hybrid Systems: Computation and Control (HSCC)_, 2020 [[pdf]](/assets/papers/10.1145_3365365.3382195.pdf)
-~~~
+
 <div class="alert alert-success" role="alert">
   Won the 2020 HSCC Best Paper Award.
 </div>
-~~~
 
 **Finite data-rate feedback stabilization of continuous-time switched linear systems with unknown switching signal**\
 Guillaume Berger, Raphaël Jungers\

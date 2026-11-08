@@ -1,24 +1,25 @@
 +++
 title = "Guillaume Berger"
+[params]
 subtitle = "FNRS Postdoctoral Researcher at UCLouvain"
 +++
 
-<!-- @def tags = ["syntax", "code"] -->
 
-@@squeeze
+<div class="squeeze">
+
 # Guillaume Berger
-@@
+
+</div>
 
 Postdoctoral Researcher, FNRS Fellow\
-Department of Applied Mathematics, UCLouvain\
+Department of Applied Mathematics, UCLouvain
 
 ## About
 
 <!-- raw html to allow a responsive row  -->
-~~~
+
 <div class="clearfix">
-    <img class="right rounded" style="margin-left: 15px; width: 150px;" src="assets/myprofile.jpg">
-~~~
+    <img class="right rounded" style="margin-left: 15px; width: 150px;" src="/assets/myprofile.jpg">
 
 Guillaume Berger is a postdoctoral researcher at [UCLouvain](https://uclouvain.be/en/index.html) in the team of [Raphaël Jungers](https://perso.uclouvain.be/raphael.jungers/content/home), since 2023.
 He is funded by an [FNRS](https://www.frs-fnrs.be/en/) postdoctoral research fellowship.
@@ -31,11 +32,9 @@ He is particularly interested in formal verification and data-driven analysis of
 
 He thaught several undergraduate, master, and graduate level courses at the University of Colorado Boulder, at UCLouvain, and at UNamur.
 He also mentored and co-supervised several Ph.D. students.
-~~~
-</div>
-~~~
 
-<!-- \tableofcontents you can use \toc as well -->
+</div>
+
 
 ## Contact
 
