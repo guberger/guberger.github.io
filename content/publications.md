@@ -8,139 +8,139 @@ title = "Publications"
 
 **CC-VPSTO: Chance-Constrained Via-Point-based Stochastic Trajectory Optimisation for safe and efficient online robot motion planning**\
 Lara Brudermüller, Guillaume Berger, Julius Jankowski, Raunak Bhattacharyya, Raphaël Jungers, Nick Hawes\
-Submitted to _International Journal of Robotics Research_, August 2025 [[pdf]](/assets/papers/IJRR_ccvpsto.pdf)
+Submitted to _International Journal of Robotics Research_, August 2025 [[pdf]](/assets/papers/2025-cc-vpsto-chance-constrained-via-point-based-stochastic-trajectory-optimisation-for-safe-and-efficient-online-robot-motion-planning.pdf)
 
 **Improved compression bounds for scenario decision making**\
 Guillaume Berger\
-Submitted to _IEEE Transactions on Automatic Control_, July 2025 [[pdf]](/assets/papers/TAC_Compression.pdf)
+Working paper, July 2025 [[pdf]](/assets/papers/2025-improved-compression-bounds-for-scenario-decision-making.pdf)
 
 **Synthesizing min-max control barrier functions for switched affine systems**\
 Sara Kamali, Guillaume Berger, Sriram Sankaranarayanan\
-Submitted to _Automatica_, June 2025 [[pdf]](/assets/papers/Automatica_CBF_Affine_terms.pdf)
+Submitted to _Automatica_, June 2025 [[pdf]](/assets/papers/2025-synthesizing-min-max-control-barrier-functions-for-switched-affine-systems.pdf)
 
 ### 2026
 
 **On the differentiability of the value function of switched linear systems under arbitrary and controlled switching**\
 Guillaume Berger\
-To appear in _European Control Conference (ECC)_, March 2026 [[pdf]](/assets/papers/ECC_Differentiability_Switched_LQR.pdf)
+To appear in _European Control Conference (ECC)_, March 2026 [[pdf]](/assets/papers/2026-on-the-differentiability-of-the-value-function-of-switched-linear-systems-under-arbitrary-and-controlled-switching.pdf)
 
 **A path-complete approach for optimal control of switched systems**\
 Léa Ninite, Adrien Banse, Guillaume Berger, Raphaël Jungers\
-To appear in _Hybrid Systems: Computation and Control (HSCC)_, January 2026 [[pdf]](/assets/papers/hscc-iccps26-paper143.pdf)
+To appear in _Hybrid Systems: Computation and Control (HSCC)_, January 2026 [[pdf]](/assets/papers/2026-a-path-complete-approach-for-optimal-control-of-switched-systems.pdf)
 
 **The internal growth function: a more general PAC framework for scenario decision making**\
 Guillaume Berger, Raphaël Jungers\
-_Transactions on Machine Learning Research_, February 2026 [[pdf]](/assets/papers/5994_The_Internal_Growth_Funct.pdf)
+_Transactions on Machine Learning Research_, February 2026 [[pdf]](/assets/papers/2026-the-internal-growth-function-a-more-general-pac-framework-for-scenario-decision-making.pdf)
 
 ### 2025
 
 **Controlled supermartingale functions for stochastic differential equations: inference and applications**\
 Masoumeh Ghanbarpour, Guillaume Berger, Sriram Sankaranarayanan\
-_Conference on Decision and Control (CDC)_, 2025 [[pdf]](/assets/papers/10.1109_CDC57313.2025.11312371.pdf)
+_Conference on Decision and Control (CDC)_, 2025 [[pdf]](/assets/papers/2025-controlled-supermartingale-functions-for-stochastic-differential-equations-inference-and-applications.pdf)
 
 **A stochastic-optimization-based adaptive-sampling scheme for data-driven stability analysis of switched linear systems**\
 Alexis Vuille, Guillaume Berger, Raphaël Jungers\
-_Conference on Decision and Control (CDC)_, 2025 [[pdf]](/assets/papers/10.1109_CDC57313.2025.11312099.pdf)
+_Conference on Decision and Control (CDC)_, 2025 [[pdf]](/assets/papers/2025-a-stochastic-optimization-based-adaptive-sampling-scheme-for-data-driven-stability-analysis-of-switched-linear-systems.pdf)
 
 **Online complexity estimation for repetitive scenario design**\
 Guillaume Berger, Raphaël Jungers\
-_Conference on Decision and Control (CDC)_, 2025 [[pdf]](/assets/papers/10.1109_CDC57313.2025.11312326.pdf)
+_Conference on Decision and Control (CDC)_, 2025 [[pdf]](/assets/papers/2025-online-complexity-estimation-for-repetitive-scenario-design.pdf)
 
 **PAC learnability of scenario decision-making algorithms: necessary conditions and sufficient conditions**\
 Guillaume Berger, Raphaël Jungers\
-_IEEE Control Systems Letters_, vol. 9, 2025 [[pdf]](/assets/papers/10.1109_LCSYS.2025.3568760.pdf)
+_IEEE Control Systems Letters_, vol. 9, 2025 [[pdf]](/assets/papers/2025-pac-learnability-of-scenario-decision-making-algorithms-necessary-conditions-and-sufficient-conditions.pdf)
 
 **Polyhedral control Lyapunov functions for switched affine systems**\
 Sara Kamali, Guillaume Berger, Sriram Sankaranarayanan\
-_Hybrid Systems: Computation and Control (HSCC)_, 2025 [[pdf]](/assets/papers/10.1145_3716863.3718048.pdf)
+_Hybrid Systems: Computation and Control (HSCC)_, 2025 [[pdf]](/assets/papers/2025-polyhedral-control-lyapunov-functions-for-switched-affine-systems.pdf)
 
 ### 2024
 
 **Template-based piecewise affine regression**\
 Guillaume Berger, Sriram Sankaranarayanan\
-_Research Directions: Cyber-Physical Systems_, vol. 2, 2024 [[pdf]](/assets/papers/template-based-piecewise-affine-regression.pdf)
+_Research Directions: Cyber-Physical Systems_, vol. 2, 2024 [[pdf]](/assets/papers/2024-template-based-piecewise-affine-regression.pdf)
 
 **Data-driven control of unknown switched linear systems using scenario optimization**\
 Zheming Wang, Guillaume Berger, Raphaël Jungers\
-_IEEE Transactions on Automatic Control_, vol. 69, no. 11, 2024 [[pdf]](/assets/papers/10.1109_TAC.2024.3382610.pdf)
+_IEEE Transactions on Automatic Control_, vol. 69, no. 11, 2024 [[pdf]](/assets/papers/2024-data-driven-control-of-unknown-switched-linear-systems-using-scenario-optimization.pdf)
 
 **Data-driven stability analysis of switched linear systems using adaptive sampling**\
 Alexis Vuille, Guillaume Berger, Raphaël Jungers\
-_Conference on Analysis and Design of Hybrid Systems (ADHS)_, 2024 [[pdf]](/assets/papers/10.1016_j.ifacol.2024.07.421.pdf)
+_Conference on Analysis and Design of Hybrid Systems (ADHS)_, 2024 [[pdf]](/assets/papers/2024-data-driven-stability-analysis-of-switched-linear-systems-using-adaptive-sampling.pdf)
 
 **Algorithms for identifying flagged and guarded linear systems**\
 Guillaume Berger, Monal Narasimhamurthy, Sriram Sankaranarayanan\
-_Hybrid Systems: Computation and Control (HSCC)_, 2024 [[pdf]](/assets/papers/10.1145_3641513.3650140.pdf) [[slides]](/assets/papers/10.1145_3641513.3650140-slides.pdf)
+_Hybrid Systems: Computation and Control (HSCC)_, 2024 [[pdf]](/assets/papers/2024-algorithms-for-identifying-flagged-and-guarded-linear-systems.pdf) [[slides]](/assets/papers/2024-algorithms-for-identifying-flagged-and-guarded-linear-systems-slides.pdf)
 
 **Cone-based abstract interpretation for nonlinear positive invariant synthesis**\
 Guillaume Berger, Masoumeh Ghanbarpour, Sriram Sankaranarayanan\
-_Hybrid Systems: Computation and Control (HSCC)_, 2024 [[pdf]](/assets/papers/10.1145_3641513.3650127.pdf) [[slides]](/assets/papers/10.1145_3641513.3650127-slides.pdf)
+_Hybrid Systems: Computation and Control (HSCC)_, 2024 [[pdf]](/assets/papers/2024-cone-based-abstract-interpretation-for-nonlinear-positive-invariant-synthesis.pdf) [[slides]](/assets/papers/2024-cone-based-abstract-interpretation-for-nonlinear-positive-invariant-synthesis-slides.pdf)
 
 ### 2023
 
 **Counterexample-guided computation of polyhedral Lyapunov functions for piecewise linear systems**\
 Guillaume Berger, Sriram Sankaranarayanan\
-_Automatica_, vol. 155, 111165, 2023 [[pdf]](/assets/papers/10.1016_j.automatica.2023.111165.pdf)
+_Automatica_, vol. 155, 111165, 2023 [[pdf]](/assets/papers/2023-counterexample-guided-computation-of-polyhedral-lyapunov-functions-for-piecewise-linear-systems.pdf)
 
 **Template-based piecewise affine regression**\
 Guillaume Berger, Sriram Sankaranarayanan\
-_Learning for Dynamics & Control Conference (L4DC)_, 2023 [[pdf]](/assets/papers/proceedings.mlr.press_v211_berger23a.pdf) [[poster]](/assets/papers/proceedings.mlr.press_v211_berger23a-poster.pdf)
+_Learning for Dynamics & Control Conference (L4DC)_, 2023 [[pdf]](/assets/papers/2023-template-based-piecewise-affine-regression.pdf) [[poster]](/assets/papers/2023-template-based-piecewise-affine-regression-poster.pdf)
 
 ### 2022
 
 **Comments on "Data driven stability analysis of black-box switched linear systems"**\
 Guillaume Berger, Zheming Wang\
-_Automatica_, vol. 142, 110412, 2022 [[pdf]](/assets/papers/10.1016_j.automatica.2022.110412.pdf)
+_Automatica_, vol. 142, 110412, 2022 [[pdf]](/assets/papers/2022-comments-on-data-driven-stability-analysis-of-black-box-switched-linear-systems.pdf)
 
 **Equivalent polyadic decompositions of matrix multiplication tensors**\
 Guillaume Berger, P.-A. Absil, Lieven De Lathauwer, Raphaël Jungers, Marc Van Barel\
-_Journal of Computational and Applied Mathematics_, vol. 406, 113941, 2022 [[pdf]](/assets/papers/10.1016_j.cam.2021.113941.pdf)
+_Journal of Computational and Applied Mathematics_, vol. 406, 113941, 2022 [[pdf]](/assets/papers/2022-equivalent-polyadic-decompositions-of-matrix-multiplication-tensors.pdf)
 
 **Worst-case topological entropy and minimal data rate for state observation of switched linear systems**\
 Guillaume Berger, Raphaël Jungers\
-_Communications of the ACM_, vol. 65, no. 2, 2022 [[pdf]](/assets/papers/10.1145_3505269.pdf)
+_Communications of the ACM_, vol. 65, no. 2, 2022 [[pdf]](/assets/papers/2022-worst-case-topological-entropy-and-minimal-data-rate-for-state-observation-of-switched-linear-systems.pdf)
 
 **Verified path following using neural control Lyapunov functions**\
 Alec Reed, Guillaume Berger, Sriram Sankaranarayanan, Christoffer Heckman\
-_Conference on Robot Learning (CoRL)_, 2022 [[pdf]](/assets/papers/proceedings.mlr.press_v205_reed23a.pdf)
+_Conference on Robot Learning (CoRL)_, 2022 [[pdf]](/assets/papers/2022-verified-path-following-using-neural-control-lyapunov-functions.pdf)
 
 **An algorithm for learning switched linear dynamics from data**\
 Guillaume Berger, Monal Narasimhamurthy, Kandai Watanabe, Morteza Lahijanian, Sriram Sankaranarayanan\
-_Neural Information Processing Systems (NeurIPS)_, 2022 [[pdf]](/assets/papers/proceedings.neurips.cc_paper_files_paper_2022_file_c415cd32375a3a020598334eb110dd29-Paper-Conference.pdf)
+_Neural Information Processing Systems (NeurIPS)_, 2022 [[pdf]](/assets/papers/2022-an-algorithm-for-learning-switched-linear-dynamics-from-data.pdf)
 
 **Learning fixed-complexity polyhedral Lyapunov functions from counterexamples**\
 Guillaume Berger, Sriram Sankaranarayanan\
-_Conference on Decision and Control (CDC)_, 2022 [[pdf]](/assets/papers/10.1109_CDC51059.2022.9992338.pdf)
+_Conference on Decision and Control (CDC)_, 2022 [[pdf]](/assets/papers/2022-learning-fixed-complexity-polyhedral-lyapunov-functions-from-counterexamples.pdf)
 
 **Data-driven invariant subspace identification for black-box switched linear systems**\
 Guillaume Berger, Raphaël Jungers, Zheming Wang\
-_Conference on Decision and Control (CDC)_, 2022 [[pdf]](/assets/papers/10.1109_CDC51059.2022.9993022.pdf)
+_Conference on Decision and Control (CDC)_, 2022 [[pdf]](/assets/papers/2022-data-driven-invariant-subspace-identification-for-black-box-switched-linear-systems.pdf)
 
 ### 2021
 
 **$p$-dominant switched linear systems**\
 Guillaume Berger, Raphaël Jungers\
-_Automatica_, vol. 132, 109801, 2021 [[pdf]](/assets/papers/10.1016_j.automatica.2021.109801.pdf)
+_Automatica_, vol. 132, 109801, 2021 [[pdf]](/assets/papers/2021-p-dominant-switched-linear-systems.pdf)
 
 **Quantized stabilization of continuous-time switched linear systems**\
 Guillaume Berger, Raphaël Jungers\
-_IEEE Control Systems Letters_, vol. 5, no. 1, 2021 [[pdf]](/assets/papers/10.1109_LCSYS.2020.3002068.pdf)
+_IEEE Control Systems Letters_, vol. 5, no. 1, 2021 [[pdf]](/assets/papers/2021-quantized-stabilization-of-continuous-time-switched-linear-systems.pdf)
 
 **Complexity of the LTI system trajectory boundedness problem**\
 Guillaume Berger, Raphaël Jungers\
-_Conference on Decision and Control (CDC)_, 2021 [[pdf]](/assets/papers/10.1109_CDC45484.2021.9683762.pdf)
+_Conference on Decision and Control (CDC)_, 2021 [[pdf]](/assets/papers/2021-complexity-of-the-lti-system-trajectory-boundedness-problem.pdf)
 
 **Data-driven feedback stabilization of switched linear systems with probabilistic stability guarantees**\
 Zheming Wang, Guillaume Berger, Raphaël Jungers\
-_Conference on Decision and Control (CDC)_, 2021 [[pdf]](/assets/papers/10.1109_CDC45484.2021.9683233.pdf)
+_Conference on Decision and Control (CDC)_, 2021 [[pdf]](/assets/papers/2021-data-driven-feedback-stabilization-of-switched-linear-systems-with-probabilistic-stability-guarantees.pdf)
 
 **Bounds on set exit times of affine systems, using Linear Matrix Inequalities**\
 Guillaume Berger, Maben Rabi\
-_Conference on Analysis and Design of Hybrid Systems (ADHS)_, 2021 [[pdf]](/assets/papers/10.1016_j.ifacol.2021.08.512.pdf)
+_Conference on Analysis and Design of Hybrid Systems (ADHS)_, 2021 [[pdf]](/assets/papers/2021-bounds-on-set-exit-times-of-affine-systems-using-linear-matrix-inequalities.pdf)
 
 **Chance-constrained quasi-convex optimization with application to data-driven switched systems control**\
 Guillaume Berger, Raphaël Jungers, Zheming Wang\
-_Learning for Dynamics & Control Conference (L4DC)_, 2021 [[pdf]](/assets/papers/proceedings.mlr.press_v144_berger21a.pdf)
+_Learning for Dynamics & Control Conference (L4DC)_, 2021 [[pdf]](/assets/papers/2021-chance-constrained-quasi-convex-optimization-with-application-to-data-driven-switched-systems-control.pdf)
 
 <div class="alert alert-success" role="alert">
   In the 14 out of 138 submissions accepted for oral presentation.
@@ -148,21 +148,21 @@ _Learning for Dynamics & Control Conference (L4DC)_, 2021 [[pdf]](/assets/papers
 
 **Dominated splitting and quantization of hybrid systems**\
 Guillaume Berger\
-_Ph.D. Dissertation_, UCLouvain, August 2021 [[pdf]](/assets/papers/phdthesis.pdf)
+_Ph.D. Dissertation_, UCLouvain, August 2021 [[pdf]](/assets/papers/2021-dominated-splitting-and-quantization-of-hybrid-systems.pdf)
 
 ### 2020
 
 **On the quality of first-order approximation of functions with Hölder continuous gradient**\
 Guillaume Berger, P.-A. Absil, Raphaël Jungers, Yurii Nesterov\
-_Journal of Optimization Theory and Applications_, vol. 185, 2020 [[pdf]](/assets/papers/10.1007_s10957-020-01632-x.pdf)
+_Journal of Optimization Theory and Applications_, vol. 185, 2020 [[pdf]](/assets/papers/2020-on-the-quality-of-first-order-approximation-of-functions-with-holder-continuous-gradient.pdf)
 
 **Formal methods for computing hyperbolic invariant sets for nonlinear systems**\
 Guillaume Berger, Raphaël Jungers\
-_IEEE Control Systems Letters_, vol. 4, no. 1, 2020 [[pdf]](/assets/papers/10.1109_LCSYS.2019.2923923.pdf)
+_IEEE Control Systems Letters_, vol. 4, no. 1, 2020 [[pdf]](/assets/papers/2020-formal-methods-for-computing-hyperbolic-invariant-sets-for-nonlinear-systems.pdf)
 
 **Worst-case topological entropy and minimal data rate for state observation of switched linear systems**\
 Guillaume Berger, Raphaël Jungers\
-_Hybrid Systems: Computation and Control (HSCC)_, 2020 [[pdf]](/assets/papers/10.1145_3365365.3382195.pdf)
+_Hybrid Systems: Computation and Control (HSCC)_, 2020 [[pdf]](/assets/papers/2020-worst-case-topological-entropy-and-minimal-data-rate-for-state-observation-of-switched-linear-systems.pdf)
 
 <div class="alert alert-success" role="alert">
   Won the 2020 HSCC Best Paper Award.
@@ -170,20 +170,20 @@ _Hybrid Systems: Computation and Control (HSCC)_, 2020 [[pdf]](/assets/papers/10
 
 **Finite data-rate feedback stabilization of continuous-time switched linear systems with unknown switching signal**\
 Guillaume Berger, Raphaël Jungers\
-_Conference on Decision and Control (CDC)_, 2020 [[pdf]](/assets/papers/10.1109_CDC42340.2020.9304214.pdf)
+_Conference on Decision and Control (CDC)_, 2020 [[pdf]](/assets/papers/2020-finite-data-rate-feedback-stabilization-of-continuous-time-switched-linear-systems-with-unknown-switching-signal.pdf)
 
 **Topological entropy and minimal data rate for state observation of LTV systems**\
 Guillaume Berger, Raphaël Jungers\
-_IFAC World Congress_, 2020 [[pdf]](/assets/papers/10.1016_j.ifacol.2020.12.1007.pdf)
+_IFAC World Congress_, 2020 [[pdf]](/assets/papers/2020-topological-entropy-and-minimal-data-rate-for-state-observation-of-ltv-systems.pdf)
 
 ### 2019
 
 **A converse Lyapunov theorem for $p$-dominant switched linear systems**\
 Guillaume Berger, Raphaël Jungers\
-_European Control Conference (ECC)_, 2019 [[pdf]](/assets/papers/10.23919_ECC.2019.8795923.pdf)
+_European Control Conference (ECC)_, 2019 [[pdf]](/assets/papers/2019-a-converse-lyapunov-theorem-for-p-dominant-switched-linear-systems.pdf)
 
 ### 2018
 
 **Path-complete $p$-dominant switching linear systems**\
 Guillaume Berger, Fulvio Forni, Raphaël Jungers\
-_Conference on Decision and Control (CDC)_, 2018 [[pdf]](/assets/papers/10.1109_CDC.2018.8619703.pdf)
+_Conference on Decision and Control (CDC)_, 2018 [[pdf]](/assets/papers/2018-path-complete-p-dominant-switching-linear-systems.pdf)

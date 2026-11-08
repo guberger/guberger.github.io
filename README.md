@@ -13,6 +13,10 @@ Math uses the bundled KaTeX files, with `$...$`, `$$...$$`, `\(...\)`, and
 Set `math = false` under `[params]` in a page's front matter to disable rendering.
 For literal dollar signs when math is enabled, use `&#36;` in prose.
 
+Paper downloads in `static/assets/papers/` use `year-publication-title.pdf`,
+with `-slides` or `-poster` before `.pdf` for companion material. The year
+and title follow the corresponding entry in `content/publications.md`.
+
 ## Deployment
 
 In GitHub repository Settings > Pages, set Source to **GitHub Actions**.
