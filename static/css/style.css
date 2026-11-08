@@ -317,10 +317,69 @@ h5 a:visited { color: #1c1c1c !important; }
   margin-bottom: 1.5rem;
 }
 
-.home-affiliation img {
-  display: block;
-  max-width: 100%;
-  height: auto;
+.cv-degree {
+  font-size: 1.25rem;
+  font-weight: 700;
+}
+
+.cv-entry {
+  padding: 1.1rem 1.25rem;
+  margin-bottom: 1rem;
+  background: #f5f8fc;
+  border: 1px solid #dbe4ef;
+  border-left: 4px solid #285a87;
+  border-radius: 6px;
+}
+
+.cv-entry h3 {
+  font-size: 1.2rem;
+  font-weight: 700;
+  color: #234f76;
+  margin-bottom: 0.5rem;
+}
+
+.cv-entry-date {
+  font-weight: 600;
+  color: #526170;
+}
+
+.cv-entry p {
+  margin-bottom: 0.5rem;
+}
+
+.cv-entry p:last-child {
+  margin-bottom: 0;
+}
+
+.scholar-metrics {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(8rem, 1fr));
+  gap: 1rem;
+  margin: 1rem 0;
+}
+
+.scholar-metrics > div {
+  padding: 1rem;
+  background: #f5f8fc;
+  border: 1px solid #dbe4ef;
+  border-radius: 6px;
+  text-align: center;
+}
+
+.scholar-metrics dt {
+  font-size: 0.9rem;
+  color: #526170;
+}
+
+.scholar-metrics dd {
+  margin: 0.25rem 0 0;
+  font-size: 1.8rem;
+  font-weight: 700;
+  color: #234f76;
+}
+
+.scholar-metrics-source {
+  font-size: 0.85rem;
 }
 
 .home-affiliation p {
@@ -329,10 +388,11 @@ h5 a:visited { color: #1c1c1c !important; }
 
 .home-affiliation-logos {
   display: flex;
+  flex-wrap: wrap;
   align-items: center;
-  gap: clamp(0.5rem, 3vw, 1.5rem);
-  margin-bottom: 1rem;
-  overflow-x: auto;
+  justify-content: space-evenly;
+  gap: 1.5rem;
+  margin-top: 3rem;
 }
 
 .home-affiliation-logos a {
@@ -340,13 +400,10 @@ h5 a:visited { color: #1c1c1c !important; }
 }
 
 .home-affiliation-logos img {
+  display: block;
   width: auto;
   height: 50px;
   max-width: none;
-}
-
-.home-affiliation-logos img[src$="uclouvain-logo.svg"] {
-  height: 40px;
 }
 
 /* Research and teaching tables. */
@@ -420,4 +477,76 @@ h5 a:visited { color: #1c1c1c !important; }
 .project-reference-venue {
   font-size: 0.85em;
   color: var(--bs-secondary-color, #6c757d);
+}
+
+/* Publication archive. */
+.publication-years p {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin: 1rem 0 1.4rem;
+}
+
+.publication-years a {
+  padding: 0.3rem 0.65rem;
+  border: 1px solid #dbe4ef;
+  border-radius: 6px;
+  background: #f5f8fc;
+  font-size: 0.9rem;
+}
+
+/* Shared section headings; table labels keep their compact styling. */
+.franklin-content h2[id] {
+  margin: 1.5rem 0 0.75rem;
+  padding-bottom: 0.4rem;
+  border-bottom: 2px solid #dbe4ef;
+  font-size: 1.4rem;
+  color: #234f76;
+  scroll-margin-top: 5rem;
+}
+
+.publication-entry {
+  padding: 0.8rem 1.25rem;
+  margin-bottom: 0.7rem;
+  border: 1px solid #e1e7ee;
+  border-left: 3px solid #8faec9;
+  border-radius: 6px;
+  background: #fcfdff;
+}
+
+.publication-entry h3 {
+  font-size: 1.08rem;
+  line-height: 1.3;
+  font-weight: 650;
+  color: #234f76;
+  margin-bottom: 0.4rem;
+}
+
+.publication-entry p {
+  font-size: 0.92rem;
+  line-height: 1.5;
+  margin-bottom: 0;
+}
+
+.publication-entry .alert {
+  margin: 0.6rem 0 0;
+  padding: 0.45rem 0.8rem;
+  font-size: 0.9rem;
+}
+
+.publication-entry a {
+  display: inline-block;
+  padding: 0.05rem 0.45rem;
+  margin-top: 0.2rem;
+  border: 1px solid #c9d9e9;
+  border-radius: 4px;
+  background: #edf4fb;
+  font-size: 0.85em;
+  font-weight: 600;
+}
+
+.publication-years a:hover,
+.publication-entry a:hover {
+  background: #deebf8;
+  text-decoration: underline;
 }

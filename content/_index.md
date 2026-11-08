@@ -12,11 +12,6 @@ subtitle = "At Octave.energy · Former FNRS Postdoctoral Researcher at UCLouvain
 </div>
 
 <div class="home-affiliation">
-  <div class="home-affiliation-logos">
-    <a href="https://octave.energy/" aria-label="Visit Octave.energy"><img src="/assets/octave-energy-logo.svg" alt="Octave.energy logo" width="204" height="68"></a>
-    <a href="https://uclouvain.be/en"><img src="/assets/uclouvain-logo.svg" alt="UCLouvain" width="180" height="52"></a>
-    <a href="https://www.frs-fnrs.be/en"><img src="/assets/fnrs-logo.svg" alt="FNRS" width="82" height="52"></a>
-  </div>
 
 **Data Scientist at [Octave.energy](https://octave.energy/)**\
 Former FNRS Postdoctoral Researcher at UCLouvain
@@ -52,3 +47,9 @@ I received my Ph.D. in cyber-physical systems from UCLouvain in 2021, supervised
 
 * **November 2026:** I have joined [Octave.energy](https://octave.energy/), following my FNRS postdoctoral fellowship at UCLouvain.
 * **Fall 2026:** I am co-teaching [Stochastic optimal control and reinforcement learning (LINMA2222)](/linma2222/) at UCLouvain.
+
+<div class="home-affiliation-logos">
+  <a href="https://octave.energy/" aria-label="Visit Octave.energy"><img src="/assets/octave-energy-logo.svg" alt="Octave.energy logo" width="204" height="68"></a>
+  <a href="https://uclouvain.be/en"><img src="/assets/uclouvain-logo.svg" alt="UCLouvain" width="180" height="52"></a>
+  <a href="https://www.frs-fnrs.be/en"><img src="/assets/fnrs-logo.svg" alt="FNRS" width="82" height="52"></a>
+</div>
