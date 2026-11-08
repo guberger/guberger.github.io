@@ -22,5 +22,5 @@ Actions tab once the workflow is present on the default branch.
 The workflow deploys a Pages artifact directly; it does not update the old
 `gh-pages` branch. The `hugo-server` development branch does not deploy on push.
 
-Julia manifests and legacy `_layout/`, `_rss/`, and `config.md` remain in the
-repository pending cleanup; they are not used by the Hugo build.
+The Franklin/Julia build files have been removed. The `franklin-content` CSS
+class is retained to preserve the original styling; it has no Franklin dependency.
