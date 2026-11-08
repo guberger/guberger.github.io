@@ -25,8 +25,7 @@ on pushes to `main` or `master`. It can also be started manually from the
 Actions tab once the workflow is present on the default branch.
 The workflow deploys a Pages artifact directly; it does not update the old
 `gh-pages` branch. The `hugo-server` development branch does not deploy on push.
-CI installs the pinned Hugo version from source through the Go module proxy,
-then caches the executable for future runs. The first build can take longer.
+CI downloads the pinned Hugo release archive from GitHub and installs its executable.
 
 The Franklin/Julia build files have been removed. The `franklin-content` CSS
 class is retained to preserve the original styling; it has no Franklin dependency.
