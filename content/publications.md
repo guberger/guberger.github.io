@@ -18,7 +18,7 @@ Papers and preprints, with links to available full texts and presentation materi
 
 <article class="publication-entry">
 
-### Scenario-Based Conformal Prediction with Exact Conditional Coverage Guarantees
+### Scenario-based conformal prediction with exact conditional coverage guarantees
 
 Guillaume O. Berger, Raphaël M. Jungers, Licio Romao\
 Working paper, November 2026 [PDF](/assets/papers/2026-scenario-based-conformal-prediction-with-exact-conditional-coverage-guarantees.pdf)
@@ -27,7 +27,7 @@ Working paper, November 2026 [PDF](/assets/papers/2026-scenario-based-conformal-
 
 <article class="publication-entry">
 
-### Direct vs. Indirect Data-Driven Control: Case-study of Switching Systems Stability
+### Direct vs. indirect data-driven control: case-study of switching systems stability
 
 Alexis Vuille, Guillaume O. Berger, Raphaël M. Jungers\
 Submitted to _Automatica_, August 2026 [arXiv](https://arxiv.org/abs/2608.20207)
@@ -36,7 +36,7 @@ Submitted to _Automatica_, August 2026 [arXiv](https://arxiv.org/abs/2608.20207)
 
 <article class="publication-entry">
 
-### Robust Optimal Control of Arbitrarily Switched Systems: A Path-Complete Framework
+### Robust optimal control of arbitrarily switched systems: a path-complete framework
 
 Léa Ninite, Adrien Banse, Guillaume O. Berger, Raphaël M. Jungers\
 Submitted to _Automatica_, July 2026 [arXiv](https://arxiv.org/abs/2607.15055)
@@ -65,7 +65,7 @@ _arXiv preprint_, January 2025 [arXiv](https://arxiv.org/abs/2501.08884)
 
 <article class="publication-entry">
 
-### Data-driven Koopman mode approximation: A neural power iteration algorithm
+### Data-driven Koopman mode approximation: a neural power iteration algorithm
 
 Guillaume O. Berger, Raphaël M. Jungers\
 To appear in _Conference on Decision and Control (CDC)_, 2026 [PDF](/assets/papers/2026-data-driven-koopman-mode-approximation-a-neural-power-iteration-algorithm.pdf)
@@ -74,10 +74,10 @@ To appear in _Conference on Decision and Control (CDC)_, 2026 [PDF](/assets/pape
 
 <article class="publication-entry">
 
-### CC-VPSTO: Chance-Constrained Via-Point-Based Stochastic Trajectory Optimisation for Online Robot Motion Planning Under Uncertainty
+### CC-VPSTO: Chance-Constrained Via-Point-based Stochastic Trajectory Optimisation for online robot motion planning under uncertainty
 
 Lara Brudermüller, Guillaume O. Berger, Julius Jankowski, Raunak Bhattacharyya, Sylvain Calinon, Raphaël M. Jungers, Nick Hawes\
-_The International Journal of Robotics Research_, 2026 [PDF](/assets/papers/2025-cc-vpsto-chance-constrained-via-point-based-stochastic-trajectory-optimisation-for-safe-and-efficient-online-robot-motion-planning.pdf)
+_The International Journal of Robotics Research_, 2026 [PDF](/assets/papers/2025-cc-vpsto-chance-constrained-via-point-based-stochastic-trajectory-optimisation-for-safe-and-efficient-online-robot-motion-planning.pdf) [Website](https://sites.google.com/oxfordrobotics.institute/cc-vpsto)
 
 </article>
 
@@ -104,7 +104,7 @@ To appear in _Hybrid Systems: Computation and Control (HSCC)_, 2026 [PDF](/asset
 ### The internal growth function: a more general PAC framework for scenario decision making
 
 Guillaume Berger, Raphaël Jungers\
-_Transactions on Machine Learning Research_, 2026 [PDF](/assets/papers/2026-the-internal-growth-function-a-more-general-pac-framework-for-scenario-decision-making.pdf)
+_Transactions on Machine Learning Research_, 2026 [PDF](/assets/papers/2026-the-internal-growth-function-a-more-general-pac-framework-for-scenario-decision-making.pdf) [NeurIPS poster](/assets/papers/2026-the-internal-growth-function-a-more-general-pac-framework-for-scenario-decision-making-poster.pdf)
 
 </article>
 
@@ -327,7 +327,7 @@ _Conference on Decision and Control (CDC)_, 2021 [PDF](/assets/papers/2021-data-
 
 <article class="publication-entry">
 
-### Bounds on set exit times of affine systems, using Linear Matrix Inequalities
+### Bounds on set exit times of affine systems, using linear matrix inequalities
 
 Guillaume Berger, Maben Rabi\
 _Conference on Analysis and Design of Hybrid Systems (ADHS)_, 2021 [PDF](/assets/papers/2021-bounds-on-set-exit-times-of-affine-systems-using-linear-matrix-inequalities.pdf)
