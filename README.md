@@ -19,13 +19,22 @@ and title follow the corresponding entry in `content/publications.md`.
 
 ## Deployment
 
-The CV's Google Scholar metrics are saved in `data/scholar.json`. The deployment
-workflow refreshes them on each build and runs weekly on Monday at 06:17 UTC.
-If Scholar is unavailable or blocks the request, the build retains the checked-in
-snapshot and its retrieval date, emits a GitHub Actions warning, and adds a notice
-to the run summary. Deployment can still succeed with stale metrics; check the
-refresh warning for the error. Run `python scripts/update_scholar.py` to refresh
-the local snapshot; commit updated data to advance the fallback figures.
+The CV's Google Scholar metrics are saved in `data/scholar.json` and updated
+manually from your computer. From the repository root, run:
+
+```powershell
+python scripts/update_scholar.py
+```
+
+The script uses Python 3 with no extra dependencies. Review the updated
+`data/scholar.json`, then commit and push it to `main` to publish the metrics.
+If Scholar is unavailable or blocks the request, the script reports an error
+and exits with a nonzero status, keeping the saved metrics and retrieval date.
+You can also parse a profile page saved from your browser with
+`python scripts/update_scholar.py --html path/to/profile.html`.
+
+Deployment uses the committed metrics; it does not fetch Scholar or run on a
+weekly schedule.
 
 In GitHub repository Settings > Pages, set Source to **GitHub Actions**.
 The workflow in `.github/workflows/deploy.yaml` builds Hugo and deploys `public/`

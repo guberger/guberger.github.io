@@ -4,32 +4,12 @@ from datetime import datetime, timezone
 from html import unescape
 from pathlib import Path
 import json
-import os
 import re
+import sys
 from urllib.request import Request, urlopen
 
 ROOT = Path(__file__).resolve().parents[1]
 PROFILE = "https://scholar.google.com/citations?user=z_q7fV0AAAAJ&hl=en"
-
-
-def report_refresh_failure(error):
-    message = f"Scholar refresh failed ({error}); retaining the saved snapshot and its date."
-    if os.environ.get('GITHUB_ACTIONS') == 'true':
-        # Escape workflow-command data so errors remain one warning annotation.
-        escaped = message.replace('%', '%25').replace('\r', '%0D').replace('\n', '%0A')
-        print(f"::warning title=Google Scholar metrics were not refreshed::{escaped}")
-    else:
-        print(f"WARNING: {message}")
-    summary = os.environ.get('GITHUB_STEP_SUMMARY')
-    if summary:
-        with Path(summary).open('a', encoding='utf-8') as output:
-            output.write(
-                "### Google Scholar refresh failed\n\n"
-                "The site will use the saved `data/scholar.json` snapshot and its "
-                "original retrieval date. See the refresh step's warning for the error.\n\n"
-                "To advance the fallback figures, refresh the snapshot locally and "
-                "commit the updated file.\n"
-            )
 
 
 def parse_page(html):
@@ -66,11 +46,12 @@ def main():
         destination.parent.mkdir(parents=True, exist_ok=True)
         destination.write_text(json.dumps(snapshot, indent=2) + '\n', encoding='utf-8')
         print(f"Scholar metrics updated: {metrics['citations']} citations, h-index {metrics['h_index']}, i10-index {metrics['i10_index']}.")
+        print("Review data/scholar.json, then commit and push it to publish the updated metrics.")
     except Exception as error:
-        if not destination.exists():
-            raise
-        report_refresh_failure(error)
+        print(f"ERROR: Scholar refresh failed ({error}); no metrics were refreshed.", file=sys.stderr)
+        return 1
+    return 0
 
 
 if __name__ == '__main__':
-    main()
+    sys.exit(main())
